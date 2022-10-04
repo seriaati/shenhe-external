@@ -1,0 +1,17 @@
+---
+BlizzardStrayer_state_desc: 敵人凍結狀態下
+BlizzardStrayer_state_effect: 暴擊率提升 40%
+HeartOfDepth_skill_desc: 使用元素戰技後
+HeartOfDepth_skill_effect: 普攻、重擊傷害提升 30%
+HuskOfOpulentDreams_stack_desc: 華館4層
+HuskOfOpulentDreams_stack_effect: 防禦力+24%, 岩元素傷害+24%
+MaidenBeloved_state_desc: 使用元素戰技或爆發後
+MaidenBeloved_state_effect: 治療效果提升 20%
+NoblesseOblige_set4_desc: 使用元素爆發後
+NoblesseOblige_set4_effect: 全隊傷害提升 20%
+ShimenawasReminiscence_usedEnergy_desc: 使用 15 點元素能量後
+ShimenawasReminiscence_usedEnergy_effect: 普攻、重擊、下落攻擊傷害提升 50%
+Thundersoother_state_desc: 敵人受雷元素影響
+Thundersoother_state_effect: 全傷害提升 35%
+ViridescentVenerer_swirlcustom_element_desc: 擴散元素
+ViridescentVenerer_swirlcustom_element_effect: 對應元素 40% 減抗
