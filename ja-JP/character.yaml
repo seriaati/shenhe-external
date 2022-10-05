@@ -1,0 +1,273 @@
+---
+Albedo_burstBlossom_desc: 場上存在阿貝多創造的陽華
+Albedo_burstBlossom_effect: 造成額外岩元素傷害
+Albedo_burstUsed_desc: 阿貝多開 Q 後
+Albedo_burstUsed_effect: 元素精通 +125
+Albedo_c2Stacks_desc: 阿貝多生滅計數4層
+Albedo_c2Stacks_effect: 增加阿貝多 Q 傷害
+Albedo_c6Crystallize_desc: 處於結晶反應產生的護盾庇護下
+Albedo_c6Crystallize_effect: 傷害 +17%
+Albedo_p1EnemyHp_desc: 敵人生命值 < 50%
+Albedo_p1EnemyHp_effect: 刹那之花傷害 +25%
+Albedo_skillInField_desc: 處於陽華的領域中
+Albedo_skillInField_effect: 下落攻擊傷害提高30%
+Aloy_A4_desc: 亞蘿伊處於冰馳狀態下 10 秒
+Aloy_A4_effect: 冰傷 +35%
+Aloy_coil_desc: 亞蘿伊冰馳狀態
+Aloy_coil_effect: 普攻增傷
+Amber_A4_desc: 安柏瞄準射擊命中弱點時
+Amber_A4_effect: 攻擊力提高15%，持續10秒。
+Amber_C6_desc: 安柏開 Q 後
+Amber_C6_effect: 移動速度以及攻擊力提升15%
+AratakiItto_burst_desc: 一斗開 Q
+AratakiItto_burst_effect: 攻速 +10%, 全元素減抗 20%, 攻擊力提高
+AratakiItto_constellation4_desc: 一斗 Q 結束後
+AratakiItto_constellation4_effect: 防禦力+20%，攻擊力+20%
+AratakiItto_passive1_desc: 攻速 +30%
+AratakiItto_passive1_effect: ''
+Barbara_c2_desc: 芭芭菈 E 水環生效期間
+Barbara_c2_effect: 場上角色獲得15%水傷加成
+Beidou_Ascension4_desc: 北斗受到攻擊後
+Beidou_Ascension4_effect: 北斗普攻 +20%雷元素傷害
+Beidou_Constellation6_desc: 北斗Q 持續期間
+Beidou_Constellation6_effect: 周圍敵人雷元素抗性 -15%
+Bennett_activeInArea_desc: 班尼特 Q 內
+Bennett_activeInArea_effect: 攻擊力加成
+Candace_afterBurst_desc: 坎蒂絲開大後
+Candace_afterBurst_effect: 水元素附魔，角色的普通攻擊造成的元素傷害提高
+Candace_c2AfterSkillHit_desc: 坎蒂絲 E 命中敵人
+Candace_c2AfterSkillHit_effect: 坎蒂絲的生命值上限提升20%
+Chongyun_asc4_desc: 重雲 E 領域消失時
+Chongyun_asc4_effect: 敵人冰抗性 -10%
+Chongyun_c6_desc: Q 對生命值% <重雲的敵人造成傷害
+Chongyun_c6_effect: 傷害 +15%
+Chongyun_skill_desc: 在重雲 E 領域中
+Chongyun_skill_effect: 單手劍、大劍、長柄武器角色獲得冰元素附魔
+Cyno_a1Judication_desc: 賽諾 E 命中敵人
+Cyno_a1Judication_effect: 賽諾 E 傷害提升35%
+Cyno_afterBurst_desc: 賽諾開大後
+Cyno_afterBurst_effect: 元素精通提高 100
+Cyno_c2NormHitStacks_desc: 賽諾普攻命中5次
+Cyno_c2NormHitStacks_effect: 雷元素傷害加成 50%
+Diluc_Burst_desc: 迪盧克開 Q 後
+Diluc_Burst_effect: 火元素傷害加成 20%
+Diluc_DilucC1_desc: 敵人生命值高於 50%
+Diluc_DilucC1_effect: 迪盧克造成的傷害提高 15%
+Diluc_DilucC2_desc: 迪盧克受到傷害
+Diluc_DilucC2_effect: 攻擊力提高10%，攻擊速度提高5%
+Diluc_DilucC6_desc: 迪盧克開 E 後
+Diluc_DilucC6_effect: 普通攻擊速度提升30%，造成的傷害提高30%
+Diona_Constellation6_desc: 迪奧娜 Q 內且生命值 > 50%
+Diona_Constellation6_effect: 元素精通 +200
+Dori_c6AfterSkill_desc: 多莉開大後
+Dori_c6AfterSkill_effect: 雷元素附魔, 普攻回血
+Eula_Grimheart_desc: 消耗冷酷之心後
+Eula_Grimheart_effect: 敵人物抗冰抗 -19%
+Eula_LightfallSword_desc: 優菈冷酷之心 30 層
+Eula_LightfallSword_effect: 造成傷害
+Eula_TidalIllusion_desc: 消耗冷酷之心後
+Eula_TidalIllusion_effect: 優菈物理傷害加成 +30%
+Ganyu_A1_desc: 發射霜華矢後
+Ganyu_A1_effect: 霜華矢暴擊率 +20%
+Ganyu_A4_desc: 甘雨 Q 內
+Ganyu_A4_effect: 冰元素傷害加成 20%
+Ganyu_C1_desc: 霜華矢或霜華綻放命中敵人時
+Ganyu_C1_effect: 冰元素抗性 -15%
+Ganyu_C4_desc: 甘雨 Q 內
+Ganyu_C4_effect: 傷害加成 15%
+Gorou_afterBurst_desc: 五郎開 Q
+Gorou_afterBurst_effect: 防禦力 +25%
+Gorou_afterSkillBurst_desc: 五郎開 Q
+Gorou_afterSkillBurst_effect: 提昇五郎大招傷害
+Gorou_inField_desc: 五郎 E 內
+Gorou_inField_effect: 防禦力提高
+HuTao_GuideToAfterlifeVoyage_desc: 胡桃進入 E 狀態
+HuTao_GuideToAfterlifeVoyage_effect: 加傷
+HuTao_SanguineRouge_desc: 胡桃血量<=50%
+HuTao_SanguineRouge_effect: 33%火傷加成
+Jean_c1_desc: 琴 E 長按超過1秒
+Jean_c1_effect: 琴 E 傷害 +40%
+Jean_c4_desc: 琴 Q 內
+Jean_c4_effect: 敵人的風元素抗性 -40%
+KaedeharaKazuha_c2_desc: 萬葉開 Q 後
+KaedeharaKazuha_c2_effect: 元素精通 +200
+KaedeharaKazuha_c6_desc: 萬葉開 Q 後
+KaedeharaKazuha_c6_effect: 萬葉普攻傷害增加
+KaedeharaKazuha_swirlcustom_element_desc: 觸發元素擴散反應後
+KaedeharaKazuha_swirlcustom_element_effect: 提高元素傷害
+Kaeya_CryoC1_desc: 對受到冰元素影響的敵人
+Kaeya_CryoC1_effect: 凱亞普攻重擊暴擊率 +15%
+KamisatoAyaka_C6_desc: 神里綾華「薄冰舞踏」存在
+KamisatoAyaka_C6_effect: 重擊傷害 +298%
+KamisatoAyaka_afterApplySprint_desc: 神里綾華附魔冰後
+KamisatoAyaka_afterApplySprint_effect: 冰傷 +18%
+KamisatoAyaka_afterBurst_desc: 敵人被神里綾華 Q 打到
+KamisatoAyaka_afterBurst_effect: 敵人防禦 -30%
+KamisatoAyaka_afterSkillA1_desc: 神里綾華開 E 後
+KamisatoAyaka_afterSkillA1_effect: 普攻重擊傷害 +30%
+KamisatoAyaka_afterSprint_desc: 神里綾華遁地後
+KamisatoAyaka_afterSprint_effect: 冰元素附魔
+KamisatoAyato_burstInArea_desc: 在神里綾人 Q 領域中
+KamisatoAyato_burstInArea_effect: +普攻傷害
+KamisatoAyato_c1OppHp_desc: 對於生命值 <=50%的敵人
+KamisatoAyato_c1OppHp_effect: 瞬水劍造成的傷害提升40%
+KamisatoAyato_c4AfterBurst_desc: 神里綾人 Q 後
+KamisatoAyato_c4AfterBurst_effect: 角色普攻的攻擊速度 +15%
+KamisatoAyato_inSkill_desc: 神里綾人「瀧廻鑑花」狀態
+KamisatoAyato_inSkill_effect: 神里綾人普攻轉為範圍水傷
+KamisatoAyato_skillStacks_desc: 神里綾人5層浪閃
+KamisatoAyato_skillStacks_effect: +瞬水劍傷害
+Keqing_afterBurst_desc: 刻晴開 Q 後
+Keqing_afterBurst_effect: 暴擊率 +15%, 元素充能效率 +15%
+Keqing_afterReact_desc: 刻晴觸發雷元素相關反應後
+Keqing_afterReact_effect: 攻擊力提升25%
+Keqing_c6Stack_desc: 刻晴六命4層
+Keqing_c6Stack_effect: 雷元素傷害加成 24%
+Klee_BlazingDelight_desc: 轟轟火花的狀態下
+Klee_BlazingDelight_effect: 10%火元素傷害加成
+Klee_ExplosiveFrags_desc: 敵人被蹦蹦炸彈的詭雷打到
+Klee_ExplosiveFrags_effect: 敵人的防禦力降低23%
+Klee_PoundingSurprise_desc: 施放重擊時將消耗爆裂火花
+Klee_PoundingSurprise_effect: 重擊傷害提升50%
+KujouSara_TenguJuuraiAmbush_desc: 九條開 E 後
+KujouSara_TenguJuuraiAmbush_effect: 攻擊力加成
+KujouSara_c6_desc: 天狗咒雷狀態下
+KujouSara_c6_effect: 雷元素傷害的暴擊傷害+60%
+KukiShinobu_c6Trigger_desc: 久岐忍生命值 <25%
+KukiShinobu_c6Trigger_effect: 九岐忍 +150精通
+Lisa_LisaA4_desc: 敵人被麗莎 Q 打到
+Lisa_LisaA4_effect: 敵人 -15%防禦力
+Mona_Omen_desc: 星異持續時間內
+Mona_Omen_effect: 提高敵人受到的傷害
+Mona_ProphecyOfOblivion_desc: 所有角色攻擊處於星異狀態下的敵人時
+Mona_ProphecyOfOblivion_effect: 暴擊率提升15%
+Mona_ProphecyOfSubmersion_desc: 隊伍角色攻擊處於星異狀態下的敵人
+Mona_ProphecyOfSubmersion_effect: 角色所造成的水元素相關反應效果提升
+Ningguang_Ascension4_desc: 穿過凝光 E
+Ningguang_Ascension4_effect: 12%岩元素傷害加成
+Noelle_SweepingTime_desc: 諾艾爾開 Q
+Noelle_SweepingTime_effect: 傷害加成
+Qiqi_QiqiC2_desc: 敵人受冰元素影響
+Qiqi_QiqiC2_effect: 七七普攻重擊傷害 +15%
+RaidenShogun_burstResolve_desc: 累積60層願力時
+RaidenShogun_burstResolve_effect: 雷神 Q 傷害提升
+RaidenShogun_skillEye_desc: 雷神 E 持續期間
+RaidenShogun_skillEye_effect: Q 造成傷害提升
+Razor_C1_desc: 雷澤獲得元素微粒
+Razor_C1_effect: 傷害+10%
+Razor_C4_desc: E 點按
+Razor_C4_effect: 敵人防禦力 -15%
+Razor_TheWolfWithin_desc: 雷澤開 Q 後
+Razor_TheWolfWithin_effect: 雷澤提高攻擊速度
+Rosaria_DilucC6_desc: 蘿莎莉亞 Q
+Rosaria_DilucC6_effect: 敵人物抗 -20%
+Rosaria_RosariaC1_desc: 蘿莎莉亞的攻擊造成暴擊
+Rosaria_RosariaC1_effect: 攻擊速度、普攻傷害 +10%
+SangonomiyaKokomi_burst_desc: 心海開 Q 後
+SangonomiyaKokomi_burst_effect: 普攻、重擊、E 傷害增加
+SangonomiyaKokomi_c6_desc: 心海 Q 期間, 治療生命>=80%的隊友
+SangonomiyaKokomi_c6_effect: 心海 40%水傷加成
+Shenhe_asc1_desc: 在申鶴 Q 內
+Shenhe_asc1_effect: 冰元素傷害加成 +15%
+Shenhe_asc4_desc: 申鶴點按 E 後
+Shenhe_asc4_effect: 角色 EQ 傷害 +15%
+Shenhe_burst_desc: 申鶴開 Q 後
+Shenhe_burst_effect: 敵人冰抗物抗降低
+Shenhe_c4_desc: 申鶴開 Q 清除25層霜霄訣後
+Shenhe_c4_effect: 申鶴 Q 造成的傷害提高125%
+Shenhe_quill_desc: 申鶴冰翎持續期間
+Shenhe_quill_effect: 冰元素傷害加成
+ShikanoinHeizou_declensionStacks_desc: 鹿野院變格 4 層
+ShikanoinHeizou_declensionStacks_effect: 鹿野院 E 增傷
+ShikanoinHeizou_takeField_desc: 鹿野院平藏登場
+ShikanoinHeizou_takeField_effect: 普通攻擊的攻擊速度 +15%
+Sucrose_absorption_desc: 砂糖開 Q 後
+Sucrose_absorption_effect: 元素傷害 +20%
+Thoma_c6AfterBarrier_desc: 開 Q 後
+Thoma_c6AfterBarrier_effect: 普攻傷害 +15%
+Tighnari_c2EnemyField_desc: E 範圍內有敵人
+Tighnari_c2EnemyField_effect: 20%草元素傷害加成
+Tighnari_c4_desc: 造成草元素反應
+Tighnari_c4_effect: +120 元素精通
+Tighnari_p1AfterWreath_desc: 發射花筥箭
+Tighnari_p1AfterWreath_effect: 提升元素精通
+Traveler_a1Stacks_desc: 蓮光遍照效果
+Traveler_a1Stacks_effect: +60 元素精通
+Traveler_anemoBurstAbsorption_desc: 旅行者 Q 染色
+Traveler_anemoBurstAbsorption_effect: 元素減抗 20%
+Traveler_anemoC6Hit_desc: 敵人被旅行者 Q 擊中
+Traveler_anemoC6Hit_effect: 風元素減抗 20%
+Traveler_c6BurstEffect_desc: 角色在旅行者 Q 內
+Traveler_c6BurstEffect_effect: 草傷 +12%
+Traveler_c6BurstEle_desc: 草燈蓮發生過蓮光幻變轉化
+Traveler_c6BurstEle_effect: 元素傷害 +12%
+Traveler_electroC2Thunder_desc: 旅行者 Q 命中敵人
+Traveler_electroC2Thunder_effect: 敵人雷元素減抗 15%
+Traveler_electroC6After2Thunder_desc: 旅行者 Q 最後一道雷
+Traveler_electroC6After2Thunder_effect: 傷害提升 200%
+Traveler_electroSkillAmulet_desc: 角色吸收豐穰勾玉
+Traveler_electroSkillAmulet_effect: 元素充能 +30%
+Traveler_geoC1BurstArea_desc: 角色在旅行者 Q 內
+Traveler_geoC1BurstArea_effect: 暴擊率 +10%
+Traveler_geoC4BurstHit_desc: 旅行者 Q 震波擊中5次
+Traveler_geoC4BurstHit_effect: 回復 25 點元素能量
+Venti_c2_desc: 被溫迪 E 打到
+Venti_c2_effect: 敵人風抗物抗 -12%
+Venti_c4_desc: 溫迪獲得元素微粒
+Venti_c4_effect: 溫迪風傷 +25%
+Venti_c6_desc: 被溫迪 Q 打到
+Venti_c6_effect: 敵人風抗 -20%
+Xiangling_afterChili_desc: 撿起鍋巴辣椒
+Xiangling_afterChili_effect: 傷害 +10%
+Xiangling_afterGuobaHit_desc: 敵人被鍋巴打到
+Xiangling_afterGuobaHit_effect: 敵人火元素抗性 -15%
+Xiangling_afterPyronado_desc: 香菱開 Q
+Xiangling_afterPyronado_effect: 火元素傷害 +15%
+Xiao_a1BurstStack_desc: 魈 Q 狀態持續 6秒
+Xiao_a1BurstStack_effect: 全元素傷害 +15%
+Xiao_a4SkillStack_desc: 施放風輪兩立2次
+Xiao_a4SkillStack_effect: 風輪兩立傷害提高 30%
+Xiao_inBurst_desc: 魈 Q 狀態下
+Xiao_inBurst_effect: 風元素附魔, 普攻傷害 +70%
+Xingqiu_burst_desc: 行秋開 Q
+Xingqiu_burst_effect: 行秋 E 傷害 +50%
+Xingqiu_c2_desc: 敵人受到劍雨攻擊
+Xingqiu_c2_effect: 水元素抗性-15%
+Xinyan_c1Crit_desc: 辛炎暴擊
+Xinyan_c1Crit_effect: 普攻和重擊的攻擊速度 +12%
+Xinyan_c4Burst_desc: 辛炎 E 造成傷害
+Xinyan_c4Burst_effect: 敵人物抗 -15%
+Xinyan_c6Charged_desc: 辛炎進行重擊
+Xinyan_c6Charged_effect: 基於防禦力的50%獲得攻擊力加成
+Xinyan_p2Shield_desc: 角色處於辛炎護盾下
+Xinyan_p2Shield_effect: 物傷 +15%
+Xinyan_skillHitNum_desc: 辛炎三級護盾
+Xinyan_skillHitNum_effect: 造成火元素傷害
+YaeMiko_c4_desc: 殺生櫻落雷命中敵人
+YaeMiko_c4_effect: 20%雷傷加成
+Yanfei_afterBurst_desc: 煙緋開 Q 後
+Yanfei_afterBurst_effect: 重擊傷害提升 40%
+Yanfei_p1Seals_desc: 煙緋 3 層
+Yanfei_p1Seals_effect: 火元素傷害加成 15%
+Yanfei_p2ChargedCrit_desc: 煙緋重擊暴擊
+Yanfei_p2ChargedCrit_effect: 額外造成一次80%攻擊力的火範圍傷害
+Yelan_a4Stacks_desc: 玄擲玲瓏存在期間
+Yelan_a4Stacks_effect: 傷害提昇 36%
+Yelan_c4Stacks_desc: 夜蘭 E 標記 4 個敵人
+Yelan_c4Stacks_effect: 提昇隊伍生命值 40%
+Yelan_c6Active_desc: 運籌帷幄狀態中
+Yelan_c6Active_effect: 發射特殊箭矢造成破局矢156%的傷害
+Yoimiya_a1_desc: 宵宮 E 持續期間內疊10層
+Yoimiya_a1_effect: 宵宮 +20%火傷
+Yoimiya_c1_desc: 處於琉金火光下的敵人被擊敗時
+Yoimiya_c1_effect: 宵宮攻擊力 +20%
+Yoimiya_c2_desc: 宵宮火傷暴擊
+Yoimiya_c2_effect: 宵宮 +25%火傷
+Yoimiya_skill_desc: 宵宮開 E 後
+Yoimiya_skill_effect: 普攻傷害提升, 火元素附魔
+YunJin_c4_desc: 雲堇觸發結晶反應後
+YunJin_c4_effect: 防禦力提升20%
+YunJin_skill_desc: 開 Q 後
+YunJin_skill_effect: 普攻傷害 +15%
+Zhongli_skill_desc: 鍾離 E 護盾生效期間
+Zhongli_skill_effect: 敵人全元素減抗 20%
