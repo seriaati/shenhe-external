@@ -1,5 +1,5 @@
 ---
-BlizzardStrayer_state_desc: When the enemy is frozen
+BlizzardStrayer_state_desc: Enemy in frozen state
 BlizzardStrayer_state_effect: Crit rate +40%
 HeartOfDepth_skill_desc: After using elemental skill
 HeartOfDepth_skill_effect: Normal attack and charged attack DMG +30%
