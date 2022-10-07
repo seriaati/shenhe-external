@@ -1,17 +1,17 @@
 ---
 BlizzardStrayer_state_desc: Enemy in frozen state
-BlizzardStrayer_state_effect: Crit rate +40%
-HeartOfDepth_skill_desc: After using elemental skill
+BlizzardStrayer_state_effect: Critical rate +40%
+HeartOfDepth_skill_desc: After using an elemental skill
 HeartOfDepth_skill_effect: Normal attack and charged attack DMG +30%
-HuskOfOpulentDreams_stack_desc: Husk of pulent dreams 4 stacks
-HuskOfOpulentDreams_stack_effect: Defense +24%, geo DMG +24%
-MaidenBeloved_state_desc: After using elemental burst or skill
+HuskOfOpulentDreams_stack_desc: Husk of Pulent Dreams effect 4 stacks
+HuskOfOpulentDreams_stack_effect: Defense +24% & Geo DMG +24%
+MaidenBeloved_state_desc: After using an elemental burst or skill
 MaidenBeloved_state_effect: Healing effect +20%
-NoblesseOblige_set4_desc: After using elemental burst
+NoblesseOblige_set4_desc: After using an elemental burst
 NoblesseOblige_set4_effect: Team DMG +20%
 ShimenawasReminiscence_usedEnergy_desc: After using 15 energy points
-ShimenawasReminiscence_usedEnergy_effect: Normal attack, plunge attack, and charged attack DMG +50%
+ShimenawasReminiscence_usedEnergy_effect: Normal attack, plunged attack and charged attack DMG +50%
 Thundersoother_state_desc: Enemy is affected by Electro
 Thundersoother_state_effect: All DMG +35%
 ViridescentVenerer_swirlcustom_element_desc: Swirl element
-ViridescentVenerer_swirlcustom_element_effect: Element RES -40%
+ViridescentVenerer_swirlcustom_element_effect: Element resistance -40%
