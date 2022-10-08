@@ -35,14 +35,14 @@ Bennett_activeInArea_desc: Inside Bennett Q
 Bennett_activeInArea_effect: DMG Bonus 
 Candace_afterBurst_desc: After Candace Q
 Candace_afterBurst_effect: Hydro infusion, elemental DMG by character normal attacks increase
-Candace_c2AfterSkillHit_desc: 坎蒂絲 E 命中敵人
-Candace_c2AfterSkillHit_effect: 坎蒂絲的生命值上限提升20%
-Chongyun_asc4_desc: 重雲 E 領域消失時
-Chongyun_asc4_effect: 敵人冰抗性 -10%
-Chongyun_c6_desc: Q 對生命值% <重雲的敵人造成傷害
-Chongyun_c6_effect: 傷害 +15%
-Chongyun_skill_desc: 在重雲 E 領域中
-Chongyun_skill_effect: 單手劍、大劍、長柄武器角色獲得冰元素附魔
+Candace_c2AfterSkillHit_desc: When Candace's E hits opponents,
+Candace_c2AfterSkillHit_effect: Candace's Max HP will be increased by 20%
+Chongyun_asc4_desc: When the field created by Chonghun's E disappears
+Chongyun_asc4_effect: opponents will have their Cryo RES decreased by 10%
+Chongyun_c6_desc: Chongyun's Q deals more damage to opponents with a lower percentage of their Max HP remaining than him
+Chongyun_c6_effect: DMG + 15%
+Chongyun_skill_desc: Within the field created by Chongyun's E
+Chongyun_skill_effect: Sword, Claymore and Polearm-wielding characters' weapons will be infused with Cryo
 Cyno_a1Judication_desc: 賽諾 E 命中敵人
 Cyno_a1Judication_effect: 賽諾 E 傷害提升35%
 Cyno_afterBurst_desc: 賽諾開大後
