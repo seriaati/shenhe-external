@@ -43,10 +43,10 @@ Chongyun_c6_desc: Chongyun's Q deals more damage to opponents with a lower perce
 Chongyun_c6_effect: DMG + 15%
 Chongyun_skill_desc: Within the field created by Chongyun's E
 Chongyun_skill_effect: Sword, Claymore and Polearm-wielding characters' weapons will be infused with Cryo
-Cyno_a1Judication_desc: 賽諾 E 命中敵人
-Cyno_a1Judication_effect: 賽諾 E 傷害提升35%
-Cyno_afterBurst_desc: 賽諾開大後
-Cyno_afterBurst_effect: 元素精通提高 100
+Cyno_a1Judication_desc: When Cyno's E hits opponents,
+Cyno_a1Judication_effect: increase theDMG of Cyno's E by 35%
+Cyno_afterBurst_desc: After Cyno uses his elemental burst,
+Cyno_afterBurst_effect: EM increased by 100
 Cyno_c2NormHitStacks_desc: 賽諾普攻命中5次
 Cyno_c2NormHitStacks_effect: 雷元素傷害加成 50%
 Diluc_Burst_desc: 迪盧克開 Q 後
