@@ -1,4 +1,3 @@
----
 Albedo_burstBlossom_desc: Albedo solar isotoma on field
 Albedo_burstBlossom_effect: Bonus Geo DMG
 Albedo_burstUsed_desc: After Albedo Q
@@ -63,7 +62,7 @@ Dori_c6AfterSkill_desc: After Dori uses Q
 Dori_c6AfterSkill_effect: Electro Infusion and Normal Attack heals all party members
 Eula_Grimheart_desc: After consuming all the stacks of Grimheart
 Eula_Grimheart_effect: Opponents hav their Physical RES and Cryo RES decreased by 19%
-Eula_LightfallSword_desc: Eula's Lightfall Sword at 30 stacks
+Eula_LightfallSword_desc: 優菈光劍 30 層
 Eula_LightfallSword_effect: deals DMG
 Eula_TidalIllusion_desc: After consuming all the stacks of Grimheart
 Eula_TidalIllusion_effect: Eula's Physical DMG is increased by 30%
