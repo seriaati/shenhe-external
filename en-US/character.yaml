@@ -56,47 +56,47 @@ Diluc_DilucC1_effect: Diluc's DMG is increased by 15%
 Diluc_DilucC2_desc: When Diluc takes DMG
 Diluc_DilucC2_effect: ATK increased by 10%, ATK speed increased by 5%
 Diluc_DilucC6_desc: After Diluc uses his E
-Diluc_DilucC6_effect: 普通攻擊速度提升30%，造成的傷害提高30%
-Diona_Constellation6_desc: 迪奧娜 Q 內且生命值 > 50%
-Diona_Constellation6_effect: 元素精通 +200
-Dori_c6AfterSkill_desc: 多莉開大後
-Dori_c6AfterSkill_effect: 雷元素附魔, 普攻回血
-Eula_Grimheart_desc: 消耗冷酷之心後
-Eula_Grimheart_effect: 敵人物抗冰抗 -19%
-Eula_LightfallSword_desc: 優菈冷酷之心 30 層
-Eula_LightfallSword_effect: 造成傷害
-Eula_TidalIllusion_desc: 消耗冷酷之心後
-Eula_TidalIllusion_effect: 優菈物理傷害加成 +30%
-Ganyu_A1_desc: 發射霜華矢後
-Ganyu_A1_effect: 霜華矢暴擊率 +20%
-Ganyu_A4_desc: 甘雨 Q 內
-Ganyu_A4_effect: 冰元素傷害加成 20%
-Ganyu_C1_desc: 霜華矢或霜華綻放命中敵人時
-Ganyu_C1_effect: 冰元素抗性 -15%
-Ganyu_C4_desc: 甘雨 Q 內
-Ganyu_C4_effect: 傷害加成 15%
-Gorou_afterBurst_desc: 五郎開 Q
-Gorou_afterBurst_effect: 防禦力 +25%
-Gorou_afterSkillBurst_desc: 五郎開 Q
-Gorou_afterSkillBurst_effect: 提昇五郎大招傷害
-Gorou_inField_desc: 五郎 E 內
-Gorou_inField_effect: 防禦力提高
-HuTao_GuideToAfterlifeVoyage_desc: 胡桃進入 E 狀態
-HuTao_GuideToAfterlifeVoyage_effect: 加傷
-HuTao_SanguineRouge_desc: 胡桃血量<=50%
-HuTao_SanguineRouge_effect: 33%火傷加成
-Jean_c1_desc: 琴 E 長按超過1秒
-Jean_c1_effect: 琴 E 傷害 +40%
-Jean_c4_desc: 琴 Q 內
-Jean_c4_effect: 敵人的風元素抗性 -40%
-KaedeharaKazuha_c2_desc: 萬葉開 Q 後
-KaedeharaKazuha_c2_effect: 元素精通 +200
-KaedeharaKazuha_c6_desc: 萬葉開 Q 後
-KaedeharaKazuha_c6_effect: 萬葉普攻傷害增加
-KaedeharaKazuha_swirlcustom_element_desc: 觸發元素擴散反應後
-KaedeharaKazuha_swirlcustom_element_effect: 提高元素傷害
-Kaeya_CryoC1_desc: 對受到冰元素影響的敵人
-Kaeya_CryoC1_effect: 凱亞普攻重擊暴擊率 +15%
+Diluc_DilucC6_effect: Normal Attack SPD increased by 30%, DMG increased by 30%
+Diona_Constellation6_desc: Character within the radius of Diona's Q and have HP above 50%
+Diona_Constellation6_effect: EM increased by 200
+Dori_c6AfterSkill_desc: After Dori uses Q
+Dori_c6AfterSkill_effect: Electro Infusion and Normal Attack heals all party members
+Eula_Grimheart_desc: After consuming all the stacks of Grimheart
+Eula_Grimheart_effect: Opponents hav their Physical RES and Cryo RES decreased by 19%
+Eula_LightfallSword_desc: Eula's Lightfall Sword at 30 stacks
+Eula_LightfallSword_effect: deals DMG
+Eula_TidalIllusion_desc: After consuming all the stacks of Grimheart
+Eula_TidalIllusion_effect: Eula's Physical DMG is increased by 30%
+Ganyu_A1_desc: After firing off a Frostflake Arrow
+Ganyu_A1_effect: the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20%
+Ganyu_A4_desc: Within the AoE of Ganyu's Q
+Ganyu_A4_effect: Cryo DMG Bonus is increased by 20%
+Ganyu_C1_desc: When Frostflake Arrows or Frostflake Arrow Blooms hit opponents
+Ganyu_C1_effect: Cryo RES is decreased by 15%
+Ganyu_C4_desc: Within the AoE of Ganyu's Q
+Ganyu_C4_effect: DMG is increased by 15%
+Gorou_afterBurst_desc: After Gorou uses Q
+Gorou_afterBurst_effect: DEF is increased by 25%
+Gorou_afterSkillBurst_desc: After Gorou used Q
+Gorou_afterSkillBurst_effect: DMG dealt by Gorou's Q is increased
+Gorou_inField_desc: Within the AoE of Gorou's E
+Gorou_inField_effect: DEF Bonus
+HuTao_GuideToAfterlifeVoyage_desc: Hu Tao enters her E state
+HuTao_GuideToAfterlifeVoyage_effect: DMG Bonus
+HuTao_SanguineRouge_desc: When Hu Tao's HP is equal to or less than 50%
+HuTao_SanguineRouge_effect: Pyro DMG is increased by 33%
+Jean_c1_desc: After holding Jean's E for more than 1s
+Jean_c1_effect: DMG dealt by Jean's E is increased by 40%
+Jean_c4_desc: Within the AoE of Jean's Q
+Jean_c4_effect: opponents have their Anemo RES decreased by 40%
+KaedeharaKazuha_c2_desc: After Kazuha uses his Q
+KaedeharaKazuha_c2_effect: EM is increased by 200
+KaedeharaKazuha_c6_desc: After Kazuha uses his Q
+KaedeharaKazuha_c6_effect: DMG dealt by Kazuha's Normal Attack is increased
+KaedeharaKazuha_swirlcustom_element_desc: After triggering a Swirl reaction
+KaedeharaKazuha_swirlcustom_element_effect: Elemental DMG is increased
+Kaeya_CryoC1_desc: Against opponents affected by Cryo
+Kaeya_CryoC1_effect: The CRIT Rate of Kaeya's Normal and Charge Attacks is increased by 15%.
 KamisatoAyaka_C6_desc: 神里綾華「薄冰舞踏」存在
 KamisatoAyaka_C6_effect: 重擊傷害 +298%
 KamisatoAyaka_afterApplySprint_desc: 神里綾華附魔冰後
@@ -147,32 +147,32 @@ Ningguang_Ascension4_desc: 穿過凝光 E
 Ningguang_Ascension4_effect: 12%岩元素傷害加成
 Noelle_SweepingTime_desc: 諾艾爾開 Q
 Noelle_SweepingTime_effect: 傷害加成
-Qiqi_QiqiC2_desc: 敵人受冰元素影響
-Qiqi_QiqiC2_effect: 七七普攻重擊傷害 +15%
-RaidenShogun_burstResolve_desc: 累積60層願力時
-RaidenShogun_burstResolve_effect: 雷神 Q 傷害提升
-RaidenShogun_skillEye_desc: 雷神 E 持續期間
-RaidenShogun_skillEye_effect: Q 造成傷害提升
-Razor_C1_desc: 雷澤獲得元素微粒
-Razor_C1_effect: 傷害+10%
-Razor_C4_desc: E 點按
-Razor_C4_effect: 敵人防禦力 -15%
-Razor_TheWolfWithin_desc: 雷澤開 Q 後
-Razor_TheWolfWithin_effect: 雷澤提高攻擊速度
-Rosaria_DilucC6_desc: 蘿莎莉亞 Q
-Rosaria_DilucC6_effect: 敵人物抗 -20%
-Rosaria_RosariaC1_desc: 蘿莎莉亞的攻擊造成暴擊
-Rosaria_RosariaC1_effect: 攻擊速度、普攻傷害 +10%
-SangonomiyaKokomi_burst_desc: 心海開 Q 後
-SangonomiyaKokomi_burst_effect: 普攻、重擊、E 傷害增加
-SangonomiyaKokomi_c6_desc: 心海 Q 期間, 治療生命>=80%的隊友
-SangonomiyaKokomi_c6_effect: 心海 40%水傷加成
-Shenhe_asc1_desc: 在申鶴 Q 內
-Shenhe_asc1_effect: 冰元素傷害加成 +15%
-Shenhe_asc4_desc: 申鶴點按 E 後
-Shenhe_asc4_effect: 角色 EQ 傷害 +15%
-Shenhe_burst_desc: 申鶴開 Q 後
-Shenhe_burst_effect: 敵人冰抗物抗降低
+Qiqi_QiqiC2_desc: Against opponents affected by Cryo
+Qiqi_QiqiC2_effect: Qiqi's Normal and Charge Attack DMG is increased by 15%
+RaidenShogun_burstResolve_desc: After Resolve stacks reach 60
+RaidenShogun_burstResolve_effect: DMG dealt by Raiden's Q is increased
+RaidenShogun_skillEye_desc: For the duration of Raiden's E
+RaidenShogun_skillEye_effect: DMG dealt by Elemental Burst is increased
+Razor_C1_desc: When Razor picks up an Elemental Orb or Particle
+Razor_C1_effect: DMG is increased by 10%
+Razor_C4_desc: Press E
+Razor_C4_effect: opponents have their DEF decreased by 15%
+Razor_TheWolfWithin_desc: After Razor uses his Q
+Razor_TheWolfWithin_effect: Razor's ATK SPD is increased
+Rosaria_DilucC6_desc: After Rosaria uses her Q
+Rosaria_DilucC6_effect: opponents have their Physical RES decreased by 20%
+Rosaria_RosariaC1_desc: When Rosaria deals a CRIT Hit
+Rosaria_RosariaC1_effect: ATK SPD and Normal Attack DMG are increased by 10%
+SangonomiyaKokomi_burst_desc: After Kokomi uses her Q
+SangonomiyaKokomi_burst_effect: Normal Attack, Charged Attack and Elemental Skill DMG are increased
+SangonomiyaKokomi_c6_desc: For the duration of her Q, when Kokomi heals or would heal, any party member with 80% or more HP
+SangonomiyaKokomi_c6_effect: Kokomi gains a 40% Hydro DMG Bonus
+Shenhe_asc1_desc: Within the field created by Shenhe's Q
+Shenhe_asc1_effect: Cryo DMG Bonus is increased by 15%
+Shenhe_asc4_desc: After Shenhe used her E (Press)
+Shenhe_asc4_effect: party members' Elemental Skill and Elemental Burst DMG increased by 15%
+Shenhe_burst_desc: After Shenhe uses her Q
+Shenhe_burst_effect: Opponents' Cryo RES and Physical RES is decreased
 Shenhe_c4_desc: 申鶴開 Q 清除25層霜霄訣後
 Shenhe_c4_effect: 申鶴 Q 造成的傷害提高125%
 Shenhe_quill_desc: 申鶴冰翎持續期間
