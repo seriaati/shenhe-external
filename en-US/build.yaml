@@ -26,7 +26,7 @@
 冰風四件套: Blizzard Strayer x4
 凝光_Q每顆: Each Q projectile
 凝光_thoughts_0: Ningguang lacks team synergy, and she can't outdamage five stars, so she's not very popular right now.
-凝光_thoughts_1: 金珀 and Healing circlet can be equipped on Ningguang when teamed with Hu Tao-Xingqiu-Zhongli for Geo resonance and alleviate bleeding damage from 流血狗, especially 黃金王獸. She is also a catalyst user which comes in handy when combatting against 黃金王獸 for its shield.
+凝光_thoughts_1: Prototype Amber and Healing circlet can be equipped on Ningguang when teamed with Hu Tao-Xingqiu-Zhongli for Geo resonance and alleviate bleeding damage from Riftstalkers, especially the Golden Wolflord. She is also a catalyst user which comes in handy when combatting against Golden Wolflord for its shield.
 凝光_thoughts_2: "Recommended artifacts: Damage-related. \nMain stats: ATK% sand, Geo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > ER"
 凱亞_Q每段: Each individual Q
 凱亞_thoughts_0: Kaeya has a low pick rate, and is mostly used for applying cryo. Damage is not a major priority, so energy recharge should be focused by using 絕緣四.
@@ -41,8 +41,8 @@
 千岩4件套: 4pc Tenacity
 可莉_thoughts_0: 可莉最受歡迎的玩法是可莉三火，而且可莉因為掛火頻率高，經常會導致輔助來不及掛水，所以純火是比較好的——這意味著可莉並不需要精通。
 可莉_thoughts_1: "Artifact Recommendation: ATK sand, Pyro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK %"
-可莉_金花重擊蒸發: 金花重擊蒸發
-坎蒂絲_Q水波: Q水波
+可莉_金花重擊蒸發: Charged attack vaporize
+坎蒂絲_Q水波: Q Water wave
 多莉_Q治療每跳: Per healing tick
 多莉_thoughts_0: "Dori is a healer and a support. Although she hits at a very high rate, her electro application is actually very low, so it is not ideal to use her for Aggravate or Quicken reactions; instead the goal should be maximize her healing ability. To do so, a healing bonus circlet is needed, which is a common suggestion to any healer.\nArtifact Recommendation: HP%/ER sand, HP% goblet, healing bonus circlet;\nSub-stat Recommendation: HP% > ER"
 夜蘭_Q協同: coordinated attacks
@@ -51,15 +51,15 @@
 夜蘭_thoughts_2: "Artifact Recommendation: HP%/ER sands, Hydro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > HP % > ER"
 如雷2件套+角斗2件套: 2pc tf + 2pc glad
 如雷4件套: 4pc tf 
-安柏_Q總共: Q總共
+安柏_Q總共: Q Total
 安柏_thoughts_0: 若安柏蒸發覆蓋率按EQ的40%算，則精通收益始終在暴擊收益以下，此時不推薦堆任何精通。
 安柏_thoughts_1: '聖遺物思路推薦： 火傷有就帶 攻擊沙、火傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊'
-安柏_蓄力蒸發: 蓄力蒸發
+安柏_蓄力蒸發: Charged attack vaporize
 宗室4件套: 4 pc nob
 宗室四件套: 4 pc nob
 宵宮_thoughts_0: 宵宮蒸發覆蓋率一般認為在50%偏上，圖中是56%。 精通對總傷收益其實並不高，通常精通靠歪就行了，沙漏就帶攻擊沙。 在隊伍中有班尼特或雲堇時，會因為攻擊太多，使得精通在數值更大時仍然比攻擊收益高，存在精通沙更優的情況。 宵宮元素爆發價值一般，所以也不怎麼需要充能效率。
 宵宮_thoughts_1: "Artifact Recommendation: ATK sands, Pyro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK %"
-宵宮_開E首箭: 開E首箭
+宵宮_開E首箭: First arrow after E
 少女2件套+千岩2件套: 2 pc maiden + 2 pc tenacity
 少女4件套: Maiden Beloved x4
 托馬_thoughts_0: 托馬屬於盾輔角色，並且即使你給托馬堆了攻暴，也打不出多少傷害，上面的圖其實參考價值不大。 托馬的配裝思路比較簡單，就是堆充能和生命保證功能性就可以了。
@@ -68,36 +68,36 @@
 提納里_thoughts_0: '提納里在使用獵人之徑時，精通收益永遠高於攻擊，而其它武器都有攻擊反大於精通的閾值，這個閾值在500-700左右，通常達不到，可以認為提納里就是精通更好。 和草主的解說一樣，草系通常只有杯位會猶豫選精通還是攻擊，杯子和頭是鎖定草杯和暴擊頭的，也有點類似胡桃和鍾離，因為激化是在攻擊區，會和自己本身的面板攻擊相互稀釋，反過來導致增傷和暴擊收益大幅提升，所以一定是草杯+暴擊頭。 提納里的充能在實戰中都可以做到12s一個大，沒必要有太多充能詞條甚至充能沙。 聖遺物思路推薦： 精通/充能沙、草傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>元素精通>百分比攻擊≥充能效率'
 提納里_激化藏蘊矢: 激化藏蘊矢
 旅行者_Q 每跳激化: Q 每跳激化
-旅行者_Q每波: Q每波
+旅行者_Q每波: Each wave of Q
 旅行者_thoughts_0: 岩主出場率不高，一般都是在娛樂玩法，比如“共鳴流”里會出現，關鍵還是主角這個數值給的有點低。 屬性上比較常規沒什需要特別注意的。
 旅行者_thoughts_1: '聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 攻擊沙、岩傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）> 百分比攻擊>元素充能效率'
 旅行者_thoughts_2: '聖遺物思路推薦（攻暴流）： 攻擊沙、風傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率'
 旅行者_勾玉充能加成: 勾玉充能加成
-旅行者_擴散: 擴散
-旗印四件套: 旗印四件套
-早柚_Q每次治療: Q每次治療
+旅行者_擴散: Swirl
+旗印四件套: Emblem of Severed Fate x4
+早柚_Q每次治療: Each heal of Q
 早柚_thoughts_0: 早柚是治療輔助，攻擊和精通對治療量的收益差不多，自己靈活選擇吧，如果硬要說傷害的話，精通是更好的，但多數人不願意用精通還是因為精通太難刷了，總之攻擊也是不錯的。
 早柚_thoughts_1: "Recommended artifacts:\nMain stats: ATK%/ER% sand, ATK%/ER% goblet, 治療 circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
 柯萊_Q 每跳激化: Q 每跳激化
 柯萊_thoughts_0: '柯萊的攻擊收益其實是高於精通的，可能有些人直覺上會以為精通好。 柯萊要提高傷害應該帶攻擊沙，而不是精通沙，如果缺充能的話，也可以帶充能沙。 柯萊的掛草功能性是比提高自己傷害更加最重要的。 聖遺物思路推薦： 攻擊/充能沙、草傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率=元素精通'
 楓原萬葉_thoughts_0: 楓原萬葉無論從自身傷害出發還是考慮全隊收益，三精通是最優的，尤其是在3.0草元素反應加入后，萬葉造成的雷擴散也能觸發激化（擴激），進一步提高了精通的價值。
 楓原萬葉_thoughts_1: '聖遺物思路推薦： 精通沙、精通杯、精通（滿命暴擊/暴傷）頭 副詞條優先順序： 元素精通>元素充能效率'
-楓原萬葉_擴散: 擴散
-樂團4件套: 樂團4件套
-樂團四件套: 樂團四件套
-沉淪4件套: 沉淪4件套
-沉淪宗室2件套: 沉淪宗室2件套
-沉淪角鬥2件套: 沉淪角鬥2件套
-海染4件套: 海染4件套
-海染四件套: 海染四件套
-深林4件套: 深林4件套
+楓原萬葉_擴散: Swirl
+樂團4件套: Wanderer's Troupe x4
+樂團四件套: Wanderer's Troupe x4
+沉淪4件套: Heart of Depth x4
+沉淪宗室2件套: Heart of Depth x2 + Nobless x2
+沉淪角鬥2件套: Heart of Depth x2 + Gladiator x2
+海染4件套: Ocean-Hued Clam x4
+海染四件套: Ocean-Hued Clam x4
+深林4件套: Deepwood memories x4
 溫迪_thoughts_0: After the introduction of aggregate reaction in version 3.0, Venti with full EM build wins over ATK%/Anemo DMG/Crit build completely.
 溫迪_thoughts_1: It is recommended to have 170% ER on Venti. ER% sand can be used instead of EM sand if weapon substat have no ER%.
 溫迪_thoughts_2: "Recommended artifacts:\nMain stats: ATK%/ER% sand, ATK%/ER% goblet, 治療 circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
 溫迪_擴散: Swirl
 煙緋_thoughts_0: 煙緋因為重擊、戰技、大招都是單獨組別，所以蒸發覆蓋率非常高，接近100%，在煙莫組合的爆發中就是100%，圖中也是按100%算的。 煙緋的天賦2會使得暴擊率有更高的收益，實際操作的時候多找一些暴擊也是合理的。
 煙緋_thoughts_1: "Recommended artifacts:\nMain stats: ATK%/EM sand, Pyro DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% = EM > ER%"
-煙緋_開Q重擊蒸發: 開Q重擊蒸發
+煙緋_開Q重擊蒸發: Vaporized charged attack after Q
 珊瑚宮心海_thoughts_0: 1詞條水傷你可以理解成同時影響攻擊和生命兩種屬性，相當於雙倍收益（其實也沒那麼誇張），所以水傷對傷害的提升還是比較明顯的。 心海不管要不要打傷害，都是帶治療頭的。 輔助能力的話，純治療就帶生命杯，不然就水杯，其實帶水杯治療量也不低了。
 珊瑚宮心海_thoughts_1: "Recommended artifacts:\nMain stats: HP% sand, Hydro DMG/HP% goblet, HP%/治療 circlet\nSub stats: HP% > Flat HP = ER%"
 珊瑚宮心海_水母回血: Jellyfish healing
@@ -148,22 +148,22 @@
 荒瀧一斗_thoughts_2: 聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦沙、岩傷杯、暴擊（暴傷）頭
 荒瀧一斗_thoughts_3: 副詞條優先順序： 雙暴（自適應） >百分比防禦>百分比攻擊
 荒瀧一斗_開Q重擊連斬: 開Q重擊連斬
-莫娜_Q暴擊: Q暴擊
-莫娜_Q暴擊蒸發: Q暴擊蒸發
+莫娜_Q暴擊: Critical hit of Q
+莫娜_Q暴擊蒸發: Critical vaporize hit of Q
 莫娜_thoughts_0: 莫娜以輔助增傷為主，自身傷害是次要的。 在保證充能的前提下，可以去補點傷害，但其實也沒必要就是了。 充能提升水傷的效率只有25%，是比較低的，不建議以提高水傷為目的去找充能詞條，充能只要迴圈得起來就不用再找了。 圖中的水傷是以200充能為前提進行計算的，帶充能沙以後很容易就能到這個值
 莫娜_thoughts_1: 聖遺物思路推薦： 莫娜增傷區比較高，而且沙漏會帶充能，這時候攻擊杯會更好。 副詞條里充能也不用找太多，一般莫娜是金珀充能沙，充能已經夠了就不用麻煩副詞條了。 充能沙、攻擊杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴>（元素精通）≥攻擊>充能效率
-華館4件套: 華館4件套
+華館4件套: Husk of Opulent Dreams x4
 菲謝爾_thoughts_0: 菲謝爾在3.0激化體系中是比較重要的角色，因為菲謝爾的雷附著頻率比較高，甚至有超越八重神子傷害的可能。 但菲謝爾仍然是攻擊沙>精通沙，沒有精通轉增傷之類的機制的話，攻擊優於精通屬於比較常見的結論，目前的雷系都符合這個規律。
 菲謝爾_thoughts_1: 菲謝爾飾金4總傷更高的原因是因為飾金4給的屬性多，和精通收益是不搭界的，2+2隻有15增傷和18攻擊，但是飾金4能給14攻擊和180精通，它給的實在太多了
 菲謝爾_thoughts_2: '聖遺物思路推薦： 攻擊沙、雷傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>攻擊百分比>元素充能效率'
 菲謝爾_奧茲攻擊: 奧茲攻擊
 蒼白四件套: 蒼白四件套
 蒼白騎士2件套: 蒼白騎士2件套
-蘿莎莉亞_Q每段: Q每段
+蘿莎莉亞_Q每段: Each pulse of Q
 蘿莎莉亞_thoughts_0: 羅莎莉亞因為自身機制完美契合精5西風，並且大招可以持續掛冰，不僅能為冰C提供大量充能微粒，還可以配合心海這樣的角色做到十秒以上的凍結，顯著地改善了隊伍充能和容錯，目前來講表現不錯。
 蘿莎莉亞_thoughts_1: 羅莎莉亞是輔助的定位，自身傷害不是很重要，可以多堆一些暴擊穩定觸發西風和提高暴擊buff數值。
 蘿莎莉亞_thoughts_2: 聖遺物思路推薦： 充能/攻擊沙、冰傷杯、暴擊頭 副詞條優先順序： 暴率>暴傷>攻擊百分比>元素充能效率
-行秋_Q劍雨: Q劍雨
+行秋_Q劍雨: Rain sword
 行秋_thoughts_0: 行秋雖然大招80能量，但是因為祭禮雙E直接10個水球，加上祭禮是61.3的充能，絕緣套又有20充能，大部分隊算出來也是180能夠，所以實際上行秋是可以不帶充能沙的。
 行秋_thoughts_1: 聖遺物思路推薦： 攻擊沙、水傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴>百分比攻擊>充能效率
 角斗2件套+追憶2件套: 角斗2件套+追憶2件套
@@ -181,15 +181,15 @@
 辰砂4件套: 辰砂4件套
 迪奧娜_thoughts_0: 迪奧娜是功能非常齊全的輔助角色，能治療能套盾能充電能加精通能掛冰...... 在遊戲前期，尤其是當你用甘雨神裡這類冰系主C時，會有很棒的表現。 以功能性為主，一般更加看中盾值所以帶生生生。
 迪奧娜_thoughts_1: 聖遺物思路推薦： 生命沙、生命杯、生命/治療頭 副詞條優先順序： 生命加成>充能效率
-迪奧娜_長E盾值: 長E盾值
-迪盧克_Q蒸發: Q蒸發
+迪奧娜_長E盾值: Long press E shield amount
+迪盧克_Q蒸發: Q vaporize
 迪盧克_thoughts_0: 姥爺因為大部分攻擊是預設組別，蒸發覆蓋率並不是很高，只有在裝備狼末時，因為攻擊特別高，才是帶精通沙更好。 但如果看的不是總傷，而是大數字的話（覆蓋算100%），精通在接近300之前都是收益較高的。
 迪盧克_thoughts_1: '聖遺物思路推薦： 火傷有就帶 攻擊/精通沙、火傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）> 百分比攻擊'
-追憶4件套: 追憶4件套
+追憶4件套: Shimenawa's Reminiscence x4
 達達利亞_thoughts_0: 公子在蒸發中屬於強勢元素，要持續蒸發是極其困難的，圖中精通是為核爆做參考，相當於蒸發覆蓋率100%。 雖然公子自己不會主動堆精通，但在萬達國際中，有時一刀的爆發的傷害佔比會很高，這時候萬葉二命的提升就會非常大。
 達達利亞_thoughts_1: 聖遺物思路推薦： 攻擊沙、水傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素精通=元素充能效率
-達達利亞_近戰Q蒸發: 近戰Q蒸發
-重雲_Q每段: Q每段
+達達利亞_近戰Q蒸發: Melee Q vaporize
+重雲_Q每段: Each individual Q
 重雲_thoughts_0: 重雲的高光主要是在傳統國家隊，但雷神的出現讓現在的重雲很是難受。 在國家隊里重雲是可以打一波吃班融化的，這裡給出的精通是按100%覆蓋率算的，用於給大數位做參考。
 重雲_thoughts_1: 重雲還可以在胡行鐘體系中，利用二命的減CD達到無縫迴圈不卡手的效果，這時候重雲當個掛件就行了裝備都可以不要，胡桃DPS夠了。 重雲的冰附魔在國家隊里可以做到行秋滅火→重雲凍結→香菱蒸發的combo，冰附魔在對陣水使徒和雷使徒時也有較好的效果——總之重雲不是特別吃裝備。
 重雲_thoughts_2: 聖遺物思路推薦： 攻擊沙、冰傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率
@@ -204,7 +204,7 @@
 阿貝多_thoughts_3: 副詞條優先順序： 雙暴（自適應）> 百分比防禦>百分比攻擊
 雲堇_thoughts_0: 雲堇和申鶴十分相似，往死裡堆防禦就可以了。 帶了防防防以後因為主副詞條不能重複，沙杯冠最優先的副詞條就是充能，這樣下來靠副詞條搞到170充能是很正常的，再加上雲堇一般帶西風或者十文字，雲堇是沒必要充能沙的。 帶西風的時候可以選擇暴擊頭。
 雲堇_thoughts_1: '聖遺物思路推薦： 防禦沙、防禦杯、防禦（西風時暴擊）頭 副詞條優先順序： 百分比防禦>元素充能效率'
-雲堇_任意: 任意
+雲堇_任意: ANY
 雷澤_thoughts_0: 雷澤屬於萌新之友，大劍角色前期普攻倍率比較高，不容易刮痧，而且長按E在前期傷害很高，範圍大，無論是拍礦還是打怪都很猛。 後期實在是卷不過，打不了深淵。 雷澤是物理C，新手的時候可能會覺得這個E傷害好高，刷了雷杯，其實帶了物理以後體驗更好
 雷澤_thoughts_1: 聖遺物思路推薦： 攻擊沙、物傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>攻擊百分比>元素充能效率
 雷澤_普攻第一段: 普攻第一段
@@ -224,7 +224,7 @@
 鹿野院平藏_E 滿蓄力: E 滿蓄力
 鹿野院平藏_thoughts_0: 小鹿不屬於高頻低倍率的風系，自身倍率很高，所以要走攻暴流。 充能方面，自身大招只有40能量而且四命自帶回能，基本不需要什麼充能詞條。
 鹿野院平藏_thoughts_1: '聖遺物思路推薦： 攻擊沙、風傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率'
-麗莎_Q每段: Q每段
+麗莎_Q每段: Each pulse of Q
 麗莎_thoughts_0: 麗莎阿..姐姐這個突破加精通很迷，自己E倍率上千，搞個突破加精通我真不知道啥意思，E的高倍率和Q的高頻率兩種優勢不管怎麼樣都要放棄一個。 總的來說還是攻擊沙更好一點。
 麗莎_thoughts_1: '聖遺物思路推薦： 攻擊沙、雷傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>攻擊百分比>元素充能效率'
-麗莎_滿層E: 滿層E
+麗莎_滿層E: Full stack E
