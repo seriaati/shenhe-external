@@ -99,19 +99,19 @@ Kaeya_CryoC1_effect: The CRIT Rate of Kaeya's Normal and Charge Attacks is incre
 KamisatoAyaka_C6_desc: 神里綾華「薄冰舞踏」存在
 KamisatoAyaka_C6_effect: 重擊傷害 +298%
 KamisatoAyaka_afterApplySprint_desc: 神里綾華附魔冰後
-KamisatoAyaka_afterApplySprint_effect: 冰傷 +18%
-KamisatoAyaka_afterBurst_desc: 敵人被神里綾華 Q 打到
-KamisatoAyaka_afterBurst_effect: 敵人防禦 -30%
-KamisatoAyaka_afterSkillA1_desc: 神里綾華開 E 後
-KamisatoAyaka_afterSkillA1_effect: 普攻重擊傷害 +30%
-KamisatoAyaka_afterSprint_desc: 神里綾華遁地後
-KamisatoAyaka_afterSprint_effect: 冰元素附魔
-KamisatoAyato_burstInArea_desc: 在神里綾人 Q 領域中
-KamisatoAyato_burstInArea_effect: +普攻傷害
-KamisatoAyato_c1OppHp_desc: 對於生命值 <=50%的敵人
+KamisatoAyaka_afterApplySprint_effect: Cryo DMG Bonus 18%
+KamisatoAyaka_afterBurst_desc: Enemy hit by Ayaka Q
+KamisatoAyaka_afterBurst_effect: Opponent RES -30%
+KamisatoAyaka_afterSkillA1_desc: After Ayaka E
+KamisatoAyaka_afterSkillA1_effect: Normal and Charged Attack DMG +30%
+KamisatoAyaka_afterSprint_desc: Ayaka after sprint
+KamisatoAyaka_afterSprint_effect: Cryo infusion
+KamisatoAyato_burstInArea_desc: Inside Ayato Q field
+KamisatoAyato_burstInArea_effect: Increased normal attack damage
+KamisatoAyato_c1OppHp_desc: Attacking enemey with HP <= 50%
 KamisatoAyato_c1OppHp_effect: 瞬水劍造成的傷害提升40%
-KamisatoAyato_c4AfterBurst_desc: 神里綾人 Q 後
-KamisatoAyato_c4AfterBurst_effect: 角色普攻的攻擊速度 +15%
+KamisatoAyato_c4AfterBurst_desc: After Ayato Q
+KamisatoAyato_c4AfterBurst_effect: Normal Attack SPD is increased by 15%.
 KamisatoAyato_inSkill_desc: 神里綾人「瀧廻鑑花」狀態
 KamisatoAyato_inSkill_effect: 神里綾人普攻轉為範圍水傷
 KamisatoAyato_skillStacks_desc: 神里綾人5層浪閃
