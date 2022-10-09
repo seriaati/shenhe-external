@@ -173,15 +173,15 @@ Shenhe_asc4_desc: After Shenhe used her E (Press)
 Shenhe_asc4_effect: party members' Elemental Skill and Elemental Burst DMG increased by 15%
 Shenhe_burst_desc: After Shenhe uses her Q
 Shenhe_burst_effect: Opponents' Cryo RES and Physical RES is decreased
-Shenhe_c4_desc: 申鶴開 Q 清除25層霜霄訣後
-Shenhe_c4_effect: 申鶴 Q 造成的傷害提高125%
-Shenhe_quill_desc: 申鶴冰翎持續期間
-Shenhe_quill_effect: 冰元素傷害加成
-ShikanoinHeizou_declensionStacks_desc: 鹿野院變格 4 層
-ShikanoinHeizou_declensionStacks_effect: 鹿野院 E 增傷
-ShikanoinHeizou_takeField_desc: 鹿野院平藏登場
-ShikanoinHeizou_takeField_effect: 普通攻擊的攻擊速度 +15%
-Sucrose_absorption_desc: 砂糖開 Q 後
+Shenhe_c4_desc: When Shenhe uses her Q and consumes all 25 stacks of Skyfrost Mantra
+Shenhe_c4_effect: DMG dealt by Shenhe's Q is increased by 125%
+Shenhe_quill_desc: While Shenhe's Icy Quill's effects are active
+Shenhe_quill_effect: Cryo DMG Bonus
+ShikanoinHeizou_declensionStacks_desc: When Heizou has 4 Declension stacks
+ShikanoinHeizou_declensionStacks_effect: DMG Bonus for Heizou's E
+ShikanoinHeizou_takeField_desc: after Shikanoin Heizou takes the field
+ShikanoinHeizou_takeField_effect: Normal Attack SPD is increased by 15%.
+Sucrose_absorption_desc: After Sucrose uses her Q
 Sucrose_absorption_effect: 元素傷害 +20%
 Thoma_c6AfterBarrier_desc: 開 Q 後
 Thoma_c6AfterBarrier_effect: 普攻傷害 +15%
