@@ -22,8 +22,8 @@ AratakiItto_burst_desc: 一斗開 Q
 AratakiItto_burst_effect: 攻速 +10%, 全元素減抗 20%, 攻擊力提高
 AratakiItto_constellation4_desc: 一斗 Q 結束後
 AratakiItto_constellation4_effect: 防禦力+20%，攻擊力+20%
-AratakiItto_passive1_desc: 攻速 +30%
-AratakiItto_passive1_effect: ''
+AratakiItto_passive1_desc: 一斗使用連續斬擊
+AratakiItto_passive1_effect: 攻速 +30%
 Barbara_c2_desc: 芭芭菈 E 水環生效期間
 Barbara_c2_effect: 場上角色獲得15%水傷加成
 Beidou_Ascension4_desc: 北斗受到攻擊後
