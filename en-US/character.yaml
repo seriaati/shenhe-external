@@ -22,8 +22,8 @@ AratakiItto_burst_desc: After Itto Q
 AratakiItto_burst_effect: Atk speed +10%, all element RES +20%, ATK increase
 AratakiItto_constellation4_desc: When Itto Q ends
 AratakiItto_constellation4_effect: Def +20%, ATK +20%
-AratakiItto_passive1_desc: ATK speed +30%
-AratakiItto_passive1_effect: ''
+AratakiItto_passive1_desc: 一斗使用連續斬擊
+AratakiItto_passive1_effect: 攻速 +30%
 Barbara_c2_desc: During Barbara E
 Barbara_c2_effect: Character on field gets Hydro DMG Bonus 15%
 Beidou_Ascension4_desc: When Beidou is attacked
