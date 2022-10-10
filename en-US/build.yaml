@@ -18,6 +18,8 @@
 優菈_thoughts_0: The only thing you should notice is Physical DMG bonus 170%, Pale Flame x4 + Song of Broken Pines + C1 is excatly 160%.
 優菈_thoughts_1: Don't bring ER sands, let her teammates do the ER for her, such as the Raiden Eula Rosaria Qiqi team.
 優菈_thoughts_2: "Artifacts: ATK sands, Physical DMG goblet, Crit Rate/DMG circlet\nSub stat: Crit Rate/DMG > ATK % > ER"
+元素精通: 元素精通
+充能效率: 充能效率
 八重神子_thoughts_0: Yae Miko should use ATK/Electro/Crit Rate or DMG. If you don't care about her Q damage at C1, then EM sands is better, after C1 she can do one Q per rotation, so ATK sands is better than EM sands. After C2 ATK sands will always be better than EM sands.
 八重神子_thoughts_1: "Artifacts: ATK sands, Electro DMG goblet, Crit Rate/DMG circlet\nSub stat: Crit Rate/DMG > ATK % > ER"
 八重神子_殺生櫻落雷: Sesshou Sakura thunder DMG
@@ -67,6 +69,7 @@
 托馬_滿層護盾: max stacked shield
 提納里_thoughts_0: '提納里在使用獵人之徑時，精通收益永遠高於攻擊，而其它武器都有攻擊反大於精通的閾值，這個閾值在500-700左右，通常達不到，可以認為提納里就是精通更好。 和草主的解說一樣，草系通常只有杯位會猶豫選精通還是攻擊，杯子和頭是鎖定草杯和暴擊頭的，也有點類似胡桃和鍾離，因為激化是在攻擊區，會和自己本身的面板攻擊相互稀釋，反過來導致增傷和暴擊收益大幅提升，所以一定是草杯+暴擊頭。 提納里的充能在實戰中都可以做到12s一個大，沒必要有太多充能詞條甚至充能沙。 聖遺物思路推薦： 精通/充能沙、草傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>元素精通>百分比攻擊≥充能效率'
 提納里_激化藏蘊矢: 激化藏蘊矢
+攻擊力: 攻擊力
 旅行者_Q 每跳激化: Q 每跳激化
 旅行者_Q每波: Each wave of Q
 旅行者_thoughts_0: 岩主出場率不高，一般都是在娛樂玩法，比如“共鳴流”里會出現，關鍵還是主角這個數值給的有點低。 屬性上比較常規沒什需要特別注意的。
@@ -78,6 +81,7 @@
 早柚_Q每次治療: Each heal of Q
 早柚_thoughts_0: 早柚是治療輔助，攻擊和精通對治療量的收益差不多，自己靈活選擇吧，如果硬要說傷害的話，精通是更好的，但多數人不願意用精通還是因為精通太難刷了，總之攻擊也是不錯的。
 早柚_thoughts_1: "Recommended artifacts:\nMain stats: ATK%/ER% sand, ATK%/ER% goblet, 治療 circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
+暴率/暴傷: 暴率/暴傷
 柯萊_Q 每跳激化: Q 每跳激化
 柯萊_thoughts_0: '柯萊的攻擊收益其實是高於精通的，可能有些人直覺上會以為精通好。 柯萊要提高傷害應該帶攻擊沙，而不是精通沙，如果缺充能的話，也可以帶充能沙。 柯萊的掛草功能性是比提高自己傷害更加最重要的。 聖遺物思路推薦： 攻擊/充能沙、草傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率=元素精通'
 楓原萬葉_thoughts_0: 楓原萬葉無論從自身傷害出發還是考慮全隊收益，三精通是最優的，尤其是在3.0草元素反應加入后，萬葉造成的雷擴散也能觸發激化（擴激），進一步提高了精通的價值。
@@ -88,6 +92,7 @@
 沉淪4件套: Heart of Depth x4
 沉淪宗室2件套: Heart of Depth x2 + Nobless x2
 沉淪角鬥2件套: Heart of Depth x2 + Gladiator x2
+治療加成: 治療加成
 海染4件套: Ocean-Hued Clam x4
 海染四件套: Ocean-Hued Clam x4
 深林4件套: Deepwood memories x4
@@ -114,6 +119,8 @@
 甘雨_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
 甘雨_霜畫矢綻放: 霜畫矢綻放
 甘雨_霜畫矢融化: 霜畫矢融化
+生命值: 生命值
+生命值 (三層被動): 生命值 (三層被動)
 申鶴_Q傷害: Q damage
 申鶴_thoughts_0: 申鶴的機制比較特殊，說直接點，往死裡堆攻擊就完事了，別的什麼暴擊冰傷不用管。 除非帶西風的時候可以帶個暴擊頭。 申鶴目前只能配神裡綾華，別的都不好，在考慮要不要練申鶴的時候可以考慮一下這點。
 申鶴_thoughts_1: 申鶴一般主詞條帶攻攻攻即可，因為主副詞條不能重複，所以三個位置的副詞條第一優先順序就是充能，攻攻攻申鶴靠副詞條弄到170%充能是沒問題的，不需要充能沙。
@@ -197,6 +204,7 @@
 鍾離_Q開盾天星: Q開盾天星
 鍾離_thoughts_0: 鍾離作為全體瓦特最具安全感的男人，當然是以盾輔思路為主，這時候可以生生生+黑纓槍，成本低效果好。 除了所謂“血牛鍾離”，還有追求天星傷害的玩法，圖中的生命收益就是對於天星傷害而言的。 可以看到，生命對傷害的收益較低，原因和胡桃一樣，因為這會和已有的攻擊相互稀釋，反過來也意味著岩傷和雙暴對鍾離收益很高。
 鍾離_thoughts_1: '聖遺物思路推薦： 生命沙、生命/岩傷杯、生命/暴擊（暴傷）頭 副詞條優先順序： （雙暴）>百分比生命>固定生命'
+防禦力: 防禦力
 阿貝多_E剎那之花: E剎那之花
 阿貝多_thoughts_0: 阿貝多的傷害絕大部分都來自於元素戰技的協同攻擊，有時候甚至會嫌阿貝多大招動畫浪費時間就把Q扣了，阿貝多的話主堆防禦就行了，攻擊可以不管。
 阿貝多_thoughts_1: 阿貝多防禦閾值還是比較高的，現在依靠華館4和辰砂加上防禦沙，就可以達到閾值附近，安心帶暴擊頭就行了，以前還可能會考慮防禦頭。
