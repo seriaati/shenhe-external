@@ -22,8 +22,8 @@ AratakiItto_burst_desc: After Itto Q
 AratakiItto_burst_effect: Atk speed +10%, all element RES +20%, ATK increase
 AratakiItto_constellation4_desc: When Itto Q ends
 AratakiItto_constellation4_effect: Def +20%, ATK +20%
-AratakiItto_passive1_desc: ATK speed +30%
-AratakiItto_passive1_effect: ''
+AratakiItto_passive1_desc: 一斗使用連續斬擊
+AratakiItto_passive1_effect: 攻速 +30%
 Barbara_c2_desc: During Barbara E
 Barbara_c2_effect: Character on field gets Hydro DMG Bonus 15%
 Beidou_Ascension4_desc: When Beidou is attacked
@@ -99,19 +99,19 @@ Kaeya_CryoC1_effect: The CRIT Rate of Kaeya's Normal and Charge Attacks is incre
 KamisatoAyaka_C6_desc: 神里綾華「薄冰舞踏」存在
 KamisatoAyaka_C6_effect: 重擊傷害 +298%
 KamisatoAyaka_afterApplySprint_desc: 神里綾華附魔冰後
-KamisatoAyaka_afterApplySprint_effect: 冰傷 +18%
-KamisatoAyaka_afterBurst_desc: 敵人被神里綾華 Q 打到
-KamisatoAyaka_afterBurst_effect: 敵人防禦 -30%
-KamisatoAyaka_afterSkillA1_desc: 神里綾華開 E 後
-KamisatoAyaka_afterSkillA1_effect: 普攻重擊傷害 +30%
-KamisatoAyaka_afterSprint_desc: 神里綾華遁地後
-KamisatoAyaka_afterSprint_effect: 冰元素附魔
-KamisatoAyato_burstInArea_desc: 在神里綾人 Q 領域中
-KamisatoAyato_burstInArea_effect: +普攻傷害
-KamisatoAyato_c1OppHp_desc: 對於生命值 <=50%的敵人
+KamisatoAyaka_afterApplySprint_effect: Cryo DMG Bonus 18%
+KamisatoAyaka_afterBurst_desc: Enemy hit by Ayaka Q
+KamisatoAyaka_afterBurst_effect: Opponent RES -30%
+KamisatoAyaka_afterSkillA1_desc: After Ayaka E
+KamisatoAyaka_afterSkillA1_effect: Normal and Charged Attack DMG +30%
+KamisatoAyaka_afterSprint_desc: Ayaka after sprint
+KamisatoAyaka_afterSprint_effect: Cryo infusion
+KamisatoAyato_burstInArea_desc: Inside Ayato Q field
+KamisatoAyato_burstInArea_effect: Increased normal attack damage
+KamisatoAyato_c1OppHp_desc: Attacking enemey with HP <= 50%
 KamisatoAyato_c1OppHp_effect: 瞬水劍造成的傷害提升40%
-KamisatoAyato_c4AfterBurst_desc: 神里綾人 Q 後
-KamisatoAyato_c4AfterBurst_effect: 角色普攻的攻擊速度 +15%
+KamisatoAyato_c4AfterBurst_desc: After Ayato Q
+KamisatoAyato_c4AfterBurst_effect: Normal Attack SPD is increased by 15%.
 KamisatoAyato_inSkill_desc: 神里綾人「瀧廻鑑花」狀態
 KamisatoAyato_inSkill_effect: 神里綾人普攻轉為範圍水傷
 KamisatoAyato_skillStacks_desc: 神里綾人5層浪閃
@@ -182,48 +182,48 @@ ShikanoinHeizou_takeField_desc: after Shikanoin Heizou takes the field
 ShikanoinHeizou_takeField_effect: Normal Attack SPD is increased by 15%.
 Sucrose_absorption_desc: After Sucrose uses her Q
 Sucrose_absorption_effect: 元素傷害 +20%
-Thoma_c6AfterBarrier_desc: 開 Q 後
-Thoma_c6AfterBarrier_effect: 普攻傷害 +15%
-Tighnari_c2EnemyField_desc: E 範圍內有敵人
-Tighnari_c2EnemyField_effect: 20%草元素傷害加成
-Tighnari_c4_desc: 造成草元素反應
-Tighnari_c4_effect: +120 元素精通
+Thoma_c6AfterBarrier_desc: After Q
+Thoma_c6AfterBarrier_effect: Normal attack DMG +15%
+Tighnari_c2EnemyField_desc: Opponent in E field
+Tighnari_c2EnemyField_effect: 20% Dendro DMG Bonus
+Tighnari_c4_desc: Trigger a Dendro reaction
+Tighnari_c4_effect: EM +120
 Tighnari_p1AfterWreath_desc: 發射花筥箭
-Tighnari_p1AfterWreath_effect: 提升元素精通
+Tighnari_p1AfterWreath_effect: EM increases
 Traveler_a1Stacks_desc: 蓮光遍照效果
-Traveler_a1Stacks_effect: +60 元素精通
+Traveler_a1Stacks_effect: EM +60
 Traveler_anemoBurstAbsorption_desc: 旅行者 Q 染色
-Traveler_anemoBurstAbsorption_effect: 元素減抗 20%
-Traveler_anemoC6Hit_desc: 敵人被旅行者 Q 擊中
-Traveler_anemoC6Hit_effect: 風元素減抗 20%
-Traveler_c6BurstEffect_desc: 角色在旅行者 Q 內
-Traveler_c6BurstEffect_effect: 草傷 +12%
+Traveler_anemoBurstAbsorption_effect: Elemental RES -20%
+Traveler_anemoC6Hit_desc: Opponent hit by Traveler's Q
+Traveler_anemoC6Hit_effect: Anemo RES -20%
+Traveler_c6BurstEffect_desc: Character in Traveler's Q field
+Traveler_c6BurstEffect_effect: Dendro DMG Bonus 12%
 Traveler_c6BurstEle_desc: 草燈蓮發生過蓮光幻變轉化
-Traveler_c6BurstEle_effect: 元素傷害 +12%
-Traveler_electroC2Thunder_desc: 旅行者 Q 命中敵人
-Traveler_electroC2Thunder_effect: 敵人雷元素減抗 15%
-Traveler_electroC6After2Thunder_desc: 旅行者 Q 最後一道雷
-Traveler_electroC6After2Thunder_effect: 傷害提升 200%
+Traveler_c6BurstEle_effect: Elemental DMG +12%
+Traveler_electroC2Thunder_desc: Traveler's Q hits an opponent
+Traveler_electroC2Thunder_effect: Enemy Electro RES -15%
+Traveler_electroC6After2Thunder_desc: Last thunder strike of Traveler's Q
+Traveler_electroC6After2Thunder_effect: DMG +200%
 Traveler_electroSkillAmulet_desc: 角色吸收豐穰勾玉
-Traveler_electroSkillAmulet_effect: 元素充能 +30%
-Traveler_geoC1BurstArea_desc: 角色在旅行者 Q 內
-Traveler_geoC1BurstArea_effect: 暴擊率 +10%
+Traveler_electroSkillAmulet_effect: ER +30%
+Traveler_geoC1BurstArea_desc: Character in Traveler's Q field
+Traveler_geoC1BurstArea_effect: Crit Rate +10%
 Traveler_geoC4BurstHit_desc: 旅行者 Q 震波擊中5次
-Traveler_geoC4BurstHit_effect: 回復 25 點元素能量
-Venti_c2_desc: 被溫迪 E 打到
-Venti_c2_effect: 敵人風抗物抗 -12%
-Venti_c4_desc: 溫迪獲得元素微粒
-Venti_c4_effect: 溫迪風傷 +25%
-Venti_c6_desc: 被溫迪 Q 打到
-Venti_c6_effect: 敵人風抗 -20%
-Xiangling_afterChili_desc: 撿起鍋巴辣椒
-Xiangling_afterChili_effect: 傷害 +10%
-Xiangling_afterGuobaHit_desc: 敵人被鍋巴打到
-Xiangling_afterGuobaHit_effect: 敵人火元素抗性 -15%
-Xiangling_afterPyronado_desc: 香菱開 Q
-Xiangling_afterPyronado_effect: 火元素傷害 +15%
+Traveler_geoC4BurstHit_effect: Recharges 25 enery points
+Venti_c2_desc: Opponent hit by Venti's E
+Venti_c2_effect: Opponent Anemo and Physical RES -12%
+Venti_c4_desc: When Venti picks up an Elemental Orb or Particle
+Venti_c4_effect: Venti Anemo DMG +25%
+Venti_c6_desc: Opponent hit by Venti's Q
+Venti_c6_effect: Opponent Anemo RES -20%
+Xiangling_afterChili_desc: Picks up Guoba's chili
+Xiangling_afterChili_effect: DMG + 10%
+Xiangling_afterGuobaHit_desc: Opponent hit by Guoba
+Xiangling_afterGuobaHit_effect: Opponent Pyro RES -15%
+Xiangling_afterPyronado_desc: After Xiangling Q
+Xiangling_afterPyronado_effect: Pyro DMG +15%
 Xiao_a1BurstStack_desc: 魈 Q 狀態持續 6秒
-Xiao_a1BurstStack_effect: 全元素傷害 +15%
+Xiao_a1BurstStack_effect: All Elemental DMG +15%
 Xiao_a4SkillStack_desc: 施放風輪兩立2次
 Xiao_a4SkillStack_effect: 風輪兩立傷害提高 30%
 Xiao_inBurst_desc: 魈 Q 狀態下
@@ -259,14 +259,14 @@ Yelan_c6Active_effect: 發射特殊箭矢造成破局矢156%的傷害
 Yoimiya_a1_desc: 宵宮 E 持續期間內疊10層
 Yoimiya_a1_effect: 宵宮 +20%火傷
 Yoimiya_c1_desc: 處於琉金火光下的敵人被擊敗時
-Yoimiya_c1_effect: 宵宮攻擊力 +20%
-Yoimiya_c2_desc: 宵宮火傷暴擊
-Yoimiya_c2_effect: 宵宮 +25%火傷
-Yoimiya_skill_desc: 宵宮開 E 後
-Yoimiya_skill_effect: 普攻傷害提升, 火元素附魔
-YunJin_c4_desc: 雲堇觸發結晶反應後
-YunJin_c4_effect: 防禦力提升20%
-YunJin_skill_desc: 開 Q 後
-YunJin_skill_effect: 普攻傷害 +15%
-Zhongli_skill_desc: 鍾離 E 護盾生效期間
-Zhongli_skill_effect: 敵人全元素減抗 20%
+Yoimiya_c1_effect: Yoimiya ATK +20%
+Yoimiya_c2_desc: Yoimiya Pyro DMG crits
+Yoimiya_c2_effect: Yoimiya Pyro DMG +25%
+Yoimiya_skill_desc: After Yoimiya E
+Yoimiya_skill_effect: Normal attack DMG increases, pyro infusion
+YunJin_c4_desc: Yunjin triggers crystalize reaction
+YunJin_c4_effect: DEF +20%
+YunJin_skill_desc: After Yunjin Q
+YunJin_skill_effect: Normal attack DMG +15%
+Zhongli_skill_desc: During Zhongli's E shield duration
+Zhongli_skill_effect: Enemy Elemental RES -20%
