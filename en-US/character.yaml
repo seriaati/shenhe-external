@@ -22,8 +22,8 @@ AratakiItto_burst_desc: After Itto Q
 AratakiItto_burst_effect: Atk speed +10%, all element RES +20%, ATK increase
 AratakiItto_constellation4_desc: When Itto Q ends
 AratakiItto_constellation4_effect: Def +20%, ATK +20%
-AratakiItto_passive1_desc: 一斗使用連續斬擊
-AratakiItto_passive1_effect: 攻速 +30%
+AratakiItto_passive1_desc: Itto uses consecutive attacks
+AratakiItto_passive1_effect: ATK speed +30%
 Barbara_c2_desc: During Barbara E
 Barbara_c2_effect: Character on field gets Hydro DMG Bonus 15%
 Beidou_Ascension4_desc: When Beidou is attacked
@@ -62,7 +62,7 @@ Dori_c6AfterSkill_desc: After Dori uses Q
 Dori_c6AfterSkill_effect: Electro Infusion and Normal Attack heals all party members
 Eula_Grimheart_desc: After consuming all the stacks of Grimheart
 Eula_Grimheart_effect: Opponents hav their Physical RES and Cryo RES decreased by 19%
-Eula_LightfallSword_desc: 優菈光劍 30 層
+Eula_LightfallSword_desc: Eula Lightfall Sword 30 stacks
 Eula_LightfallSword_effect: deals DMG
 Eula_TidalIllusion_desc: After consuming all the stacks of Grimheart
 Eula_TidalIllusion_effect: Eula's Physical DMG is increased by 30%
@@ -96,9 +96,9 @@ KaedeharaKazuha_swirlcustom_element_desc: After triggering a Swirl reaction
 KaedeharaKazuha_swirlcustom_element_effect: Elemental DMG is increased
 Kaeya_CryoC1_desc: Against opponents affected by Cryo
 Kaeya_CryoC1_effect: The CRIT Rate of Kaeya's Normal and Charge Attacks is increased by 15%.
-KamisatoAyaka_C6_desc: 神里綾華「薄冰舞踏」存在
-KamisatoAyaka_C6_effect: 重擊傷害 +298%
-KamisatoAyaka_afterApplySprint_desc: 神里綾華附魔冰後
+KamisatoAyaka_C6_desc: Ayaka "Dance of Suigetsu" effect is present
+KamisatoAyaka_C6_effect: Crit DMG +298%
+KamisatoAyaka_afterApplySprint_desc: After Ayaka applies Cryo Infusion
 KamisatoAyaka_afterApplySprint_effect: Cryo DMG Bonus 18%
 KamisatoAyaka_afterBurst_desc: Enemy hit by Ayaka Q
 KamisatoAyaka_afterBurst_effect: Opponent RES -30%
@@ -109,43 +109,43 @@ KamisatoAyaka_afterSprint_effect: Cryo infusion
 KamisatoAyato_burstInArea_desc: Inside Ayato Q field
 KamisatoAyato_burstInArea_effect: Increased normal attack damage
 KamisatoAyato_c1OppHp_desc: Attacking enemey with HP <= 50%
-KamisatoAyato_c1OppHp_effect: 瞬水劍造成的傷害提升40%
+KamisatoAyato_c1OppHp_effect: Ayato Shunsuiken DMG +40%
 KamisatoAyato_c4AfterBurst_desc: After Ayato Q
 KamisatoAyato_c4AfterBurst_effect: Normal Attack SPD is increased by 15%.
-KamisatoAyato_inSkill_desc: 神里綾人「瀧廻鑑花」狀態
-KamisatoAyato_inSkill_effect: 神里綾人普攻轉為範圍水傷
-KamisatoAyato_skillStacks_desc: 神里綾人5層浪閃
-KamisatoAyato_skillStacks_effect: +瞬水劍傷害
-Keqing_afterBurst_desc: 刻晴開 Q 後
-Keqing_afterBurst_effect: 暴擊率 +15%, 元素充能效率 +15%
-Keqing_afterReact_desc: 刻晴觸發雷元素相關反應後
-Keqing_afterReact_effect: 攻擊力提升25%
-Keqing_c6Stack_desc: 刻晴六命4層
-Keqing_c6Stack_effect: 雷元素傷害加成 24%
-Klee_BlazingDelight_desc: 轟轟火花的狀態下
-Klee_BlazingDelight_effect: 10%火元素傷害加成
-Klee_ExplosiveFrags_desc: 敵人被蹦蹦炸彈的詭雷打到
-Klee_ExplosiveFrags_effect: 敵人的防禦力降低23%
-Klee_PoundingSurprise_desc: 施放重擊時將消耗爆裂火花
-Klee_PoundingSurprise_effect: 重擊傷害提升50%
-KujouSara_TenguJuuraiAmbush_desc: 九條開 E 後
-KujouSara_TenguJuuraiAmbush_effect: 攻擊力加成
-KujouSara_c6_desc: 天狗咒雷狀態下
-KujouSara_c6_effect: 雷元素傷害的暴擊傷害+60%
-KukiShinobu_c6Trigger_desc: 久岐忍生命值 <25%
-KukiShinobu_c6Trigger_effect: 九岐忍 +150精通
-Lisa_LisaA4_desc: 敵人被麗莎 Q 打到
-Lisa_LisaA4_effect: 敵人 -15%防禦力
-Mona_Omen_desc: 星異持續時間內
-Mona_Omen_effect: 提高敵人受到的傷害
-Mona_ProphecyOfOblivion_desc: 所有角色攻擊處於星異狀態下的敵人時
-Mona_ProphecyOfOblivion_effect: 暴擊率提升15%
-Mona_ProphecyOfSubmersion_desc: 隊伍角色攻擊處於星異狀態下的敵人
-Mona_ProphecyOfSubmersion_effect: 角色所造成的水元素相關反應效果提升
-Ningguang_Ascension4_desc: 穿過凝光 E
-Ningguang_Ascension4_effect: 12%岩元素傷害加成
-Noelle_SweepingTime_desc: 諾艾爾開 Q
-Noelle_SweepingTime_effect: 傷害加成
+KamisatoAyato_inSkill_desc: Ayato enters "Takimeguri Kanka" state
+KamisatoAyato_inSkill_effect: Ayato's Normal Attack is changed to Hydro AOE DMG
+KamisatoAyato_skillStacks_desc: Ayato 5 stacks of Namisen
+KamisatoAyato_skillStacks_effect: Increased Shunsuiken DMG
+Keqing_afterBurst_desc: After Keqing Q
+Keqing_afterBurst_effect: Crit Rate +15, ER +15%
+Keqing_afterReact_desc: Keqing triggers Electro-related reactions
+Keqing_afterReact_effect: ATK +25%
+Keqing_c6Stack_desc: Keqing C6 4 stacks
+Keqing_c6Stack_effect: Electro DMG Bonus 24%
+Klee_BlazingDelight_desc: Klee is in Blazing Delight state
+Klee_BlazingDelight_effect: 10% Pyro DMG Bonus
+Klee_ExplosiveFrags_desc: Opponent hit by explosive frags
+Klee_ExplosiveFrags_effect: Opponent DEF -23%
+Klee_PoundingSurprise_desc: Klee charged attack consumes Explosive Spark
+Klee_PoundingSurprise_effect: Charged Attack DMG +50%
+KujouSara_TenguJuuraiAmbush_desc: After Kujou E
+KujouSara_TenguJuuraiAmbush_effect: ATK Bonus
+KujouSara_c6_desc: Kujou in C6 Sin of Pride state
+KujouSara_c6_effect: Electro Crit DMG +60%
+KukiShinobu_c6Trigger_desc: Kuki's HP < 25%
+KukiShinobu_c6Trigger_effect: Kuki EM +150
+Lisa_LisaA4_desc: Opponent hit by Lisa's Q
+Lisa_LisaA4_effect: Opponent's DEF -15%
+Mona_Omen_desc: During Mona's Omen duration
+Mona_Omen_effect: Increased DMG taken by opponents
+Mona_ProphecyOfOblivion_desc: Any character is attacking opponents under Omen state
+Mona_ProphecyOfOblivion_effect: Crit Rate +15%
+Mona_ProphecyOfSubmersion_desc: When character is attacking opponents under Omen state
+Mona_ProphecyOfSubmersion_effect: Character's Hydro-related reaction DMG is increased
+Ningguang_Ascension4_desc: Pass through Ningguang's E
+Ningguang_Ascension4_effect: 12% Geo DMG Bonus
+Noelle_SweepingTime_desc: After Noelle Q
+Noelle_SweepingTime_effect: DMG Bonus
 Qiqi_QiqiC2_desc: Against opponents affected by Cryo
 Qiqi_QiqiC2_effect: Qiqi's Normal and Charge Attack DMG is increased by 15%
 RaidenShogun_burstResolve_desc: After Resolve stacks reach 60
@@ -181,34 +181,34 @@ ShikanoinHeizou_declensionStacks_effect: DMG Bonus for Heizou's E
 ShikanoinHeizou_takeField_desc: after Shikanoin Heizou takes the field
 ShikanoinHeizou_takeField_effect: Normal Attack SPD is increased by 15%.
 Sucrose_absorption_desc: After Sucrose uses her Q
-Sucrose_absorption_effect: 元素傷害 +20%
+Sucrose_absorption_effect: Elemental DMG Bonus +20%
 Thoma_c6AfterBarrier_desc: After Q
 Thoma_c6AfterBarrier_effect: Normal attack DMG +15%
 Tighnari_c2EnemyField_desc: Opponent in E field
 Tighnari_c2EnemyField_effect: 20% Dendro DMG Bonus
 Tighnari_c4_desc: Trigger a Dendro reaction
 Tighnari_c4_effect: EM +120
-Tighnari_p1AfterWreath_desc: 發射花筥箭
+Tighnari_p1AfterWreath_desc: Tighnari fires off Wreath Arrow
 Tighnari_p1AfterWreath_effect: EM increases
-Traveler_a1Stacks_desc: 蓮光遍照效果
+Traveler_a1Stacks_desc: Traveler's Overflowing Lotuslight effect
 Traveler_a1Stacks_effect: EM +60
-Traveler_anemoBurstAbsorption_desc: 旅行者 Q 染色
+Traveler_anemoBurstAbsorption_desc: Traveler's Q reacts with an element
 Traveler_anemoBurstAbsorption_effect: Elemental RES -20%
 Traveler_anemoC6Hit_desc: Opponent hit by Traveler's Q
 Traveler_anemoC6Hit_effect: Anemo RES -20%
 Traveler_c6BurstEffect_desc: Character in Traveler's Q field
 Traveler_c6BurstEffect_effect: Dendro DMG Bonus 12%
-Traveler_c6BurstEle_desc: 草燈蓮發生過蓮光幻變轉化
+Traveler_c6BurstEle_desc: Traveler's Lea Lotus Lamp undergo a Lotuslight Transfiguration
 Traveler_c6BurstEle_effect: Elemental DMG +12%
 Traveler_electroC2Thunder_desc: Traveler's Q hits an opponent
 Traveler_electroC2Thunder_effect: Enemy Electro RES -15%
 Traveler_electroC6After2Thunder_desc: Last thunder strike of Traveler's Q
 Traveler_electroC6After2Thunder_effect: DMG +200%
-Traveler_electroSkillAmulet_desc: 角色吸收豐穰勾玉
+Traveler_electroSkillAmulet_desc: Character absorbs a Abundance Amulet
 Traveler_electroSkillAmulet_effect: ER +30%
 Traveler_geoC1BurstArea_desc: Character in Traveler's Q field
 Traveler_geoC1BurstArea_effect: Crit Rate +10%
-Traveler_geoC4BurstHit_desc: 旅行者 Q 震波擊中5次
+Traveler_geoC4BurstHit_desc: Traveler's Q pulses hit 5 times
 Traveler_geoC4BurstHit_effect: Recharges 25 enery points
 Venti_c2_desc: Opponent hit by Venti's E
 Venti_c2_effect: Opponent Anemo and Physical RES -12%
@@ -222,43 +222,43 @@ Xiangling_afterGuobaHit_desc: Opponent hit by Guoba
 Xiangling_afterGuobaHit_effect: Opponent Pyro RES -15%
 Xiangling_afterPyronado_desc: After Xiangling Q
 Xiangling_afterPyronado_effect: Pyro DMG +15%
-Xiao_a1BurstStack_desc: 魈 Q 狀態持續 6秒
+Xiao_a1BurstStack_desc: 6 seconds after Xiao's Q
 Xiao_a1BurstStack_effect: All Elemental DMG +15%
-Xiao_a4SkillStack_desc: 施放風輪兩立2次
-Xiao_a4SkillStack_effect: 風輪兩立傷害提高 30%
-Xiao_inBurst_desc: 魈 Q 狀態下
-Xiao_inBurst_effect: 風元素附魔, 普攻傷害 +70%
-Xingqiu_burst_desc: 行秋開 Q
-Xingqiu_burst_effect: 行秋 E 傷害 +50%
-Xingqiu_c2_desc: 敵人受到劍雨攻擊
-Xingqiu_c2_effect: 水元素抗性-15%
-Xinyan_c1Crit_desc: 辛炎暴擊
-Xinyan_c1Crit_effect: 普攻和重擊的攻擊速度 +12%
-Xinyan_c4Burst_desc: 辛炎 E 造成傷害
-Xinyan_c4Burst_effect: 敵人物抗 -15%
-Xinyan_c6Charged_desc: 辛炎進行重擊
-Xinyan_c6Charged_effect: 基於防禦力的50%獲得攻擊力加成
-Xinyan_p2Shield_desc: 角色處於辛炎護盾下
-Xinyan_p2Shield_effect: 物傷 +15%
-Xinyan_skillHitNum_desc: 辛炎三級護盾
-Xinyan_skillHitNum_effect: 造成火元素傷害
-YaeMiko_c4_desc: 殺生櫻落雷命中敵人
-YaeMiko_c4_effect: 20%雷傷加成
-Yanfei_afterBurst_desc: 煙緋開 Q 後
-Yanfei_afterBurst_effect: 重擊傷害提升 40%
-Yanfei_p1Seals_desc: 煙緋 3 層
-Yanfei_p1Seals_effect: 火元素傷害加成 15%
-Yanfei_p2ChargedCrit_desc: 煙緋重擊暴擊
-Yanfei_p2ChargedCrit_effect: 額外造成一次80%攻擊力的火範圍傷害
-Yelan_a4Stacks_desc: 玄擲玲瓏存在期間
-Yelan_a4Stacks_effect: 傷害提昇 36%
-Yelan_c4Stacks_desc: 夜蘭 E 標記 4 個敵人
-Yelan_c4Stacks_effect: 提昇隊伍生命值 40%
-Yelan_c6Active_desc: 運籌帷幄狀態中
-Yelan_c6Active_effect: 發射特殊箭矢造成破局矢156%的傷害
-Yoimiya_a1_desc: 宵宮 E 持續期間內疊10層
-Yoimiya_a1_effect: 宵宮 +20%火傷
-Yoimiya_c1_desc: 處於琉金火光下的敵人被擊敗時
+Xiao_a4SkillStack_desc: Xiao uses his E twice
+Xiao_a4SkillStack_effect: Xiao's E DMG +30%
+Xiao_inBurst_desc: During Xiao's Burst
+Xiao_inBurst_effect: Anemo infusion, Normal Attack DMG +70%
+Xingqiu_burst_desc: After Xinqiu's Q
+Xingqiu_burst_effect: DMG dealt by Xinqiu's E is increased by 50%
+Xingqiu_c2_desc: Opponent attacked by Xinqiu's Rain Swords
+Xingqiu_c2_effect: Hydro RES -15%
+Xinyan_c1Crit_desc: Xinyan crits
+Xinyan_c1Crit_effect: Normal Attack and Charge Attack SPD is increased by 12%.
+Xinyan_c4Burst_desc: Xinyan's E does DMG
+Xinyan_c4Burst_effect: Opponent Physical RES -15%
+Xinyan_c6Charged_desc: Xinyan uses charged attack
+Xinyan_c6Charged_effect: Gains ATK Bonus by 50% of Xinyan's DEF
+Xinyan_p2Shield_desc: Character protected by Xinyan's shield
+Xinyan_p2Shield_effect: Physical DMG Bonus 15%
+Xinyan_skillHitNum_desc: Xinyan's level 3 shield
+Xinyan_skillHitNum_effect: Causes Pyro DMG
+YaeMiko_c4_desc: Yae Miko's Sesshou Sakura hits opponent
+YaeMiko_c4_effect: 20% Electro DMG Bonus
+Yanfei_afterBurst_desc: After Yanfei Q
+Yanfei_afterBurst_effect: Charged Attack DMG +40%
+Yanfei_p1Seals_desc: Yanfei 3 seals
+Yanfei_p1Seals_effect: Pyro DMG Increased by 15%
+Yanfei_p2ChargedCrit_desc: Yanfei Charged Attack crits
+Yanfei_p2ChargedCrit_effect: Causes Pyro DMG by 80% of Yanfei's ATK
+Yelan_a4Stacks_desc: During Yelan's burst
+Yelan_a4Stacks_effect: DMG +36%
+Yelan_c4Stacks_desc: Yelan's E tags 4 opponents
+Yelan_c4Stacks_effect: Increases team member HP by 40%
+Yelan_c6Active_desc: Yelan's C6 is active (Mastermind state)
+Yelan_c6Active_effect: Fires special arrows that deal 156% of a normal Breakthrough Barb's DMG.
+Yoimiya_a1_desc: Yoimiya hits the opponent 10 times during her E
+Yoimiya_a1_effect: Yoimiya's Pyro DMG +20%
+Yoimiya_c1_desc: When opponent is defeated under the Aurous Blaze state
 Yoimiya_c1_effect: Yoimiya ATK +20%
 Yoimiya_c2_desc: Yoimiya Pyro DMG crits
 Yoimiya_c2_effect: Yoimiya Pyro DMG +25%
