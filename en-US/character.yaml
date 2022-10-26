@@ -31,7 +31,7 @@ Beidou_Ascension4_effect: Beidou normal ATK +20% Electro DMG Bonus
 Beidou_Constellation6_desc: During Beidou Q
 Beidou_Constellation6_effect: Electro RES of nearby enemies -15%
 Bennett_activeInArea_desc: Inside Bennett Q
-Bennett_activeInArea_effect: DMG Bonus 
+Bennett_activeInArea_effect: DMG Bonus
 Candace_afterBurst_desc: After Candace Q
 Candace_afterBurst_effect: Hydro infusion, elemental DMG by character normal attacks increase
 Candace_c2AfterSkillHit_desc: When Candace's E hits opponents,
@@ -142,6 +142,16 @@ Mona_ProphecyOfOblivion_desc: Any character is attacking opponents under Omen st
 Mona_ProphecyOfOblivion_effect: Crit Rate +15%
 Mona_ProphecyOfSubmersion_desc: When character is attacking opponents under Omen state
 Mona_ProphecyOfSubmersion_effect: Character's Hydro-related reaction DMG is increased
+Nilou_a1AfterHit_desc: Character that's affected by "Golden Chalice's Bounty" is damaged by Dendro
+Nilou_a1AfterHit_effect: Character EM +100
+Nilou_a1AfterSkill_desc: '"Golden Chalice''s Bounty"'
+Nilou_a1AfterSkill_effect: Triggering Bloom reactions will replace Dendro Cores with Bouniful Cores
+Nilou_c2Dendro_desc: Characters under "Golden Chalice's Bounty" triggers Bloom reaction and deals damage
+Nilou_c2Dendro_effect: Enemy's Dendro RES -35%
+Nilou_c2Hydro_desc: Character under "Golden Chalice's Bounty" deals Hydro DMG
+Nilou_c2Hydro_effect: Enemy Hydro RES -35%
+Nilou_c4AfterPirHit_desc: Nilou's third dance move hits an opponent
+Nilou_c4AfterPirHit_effect: Nilou's Q DMG is increased by 20%
 Ningguang_Ascension4_desc: Pass through Ningguang's E
 Ningguang_Ascension4_effect: 12% Geo DMG Bonus
 Noelle_SweepingTime_desc: After Noelle Q
