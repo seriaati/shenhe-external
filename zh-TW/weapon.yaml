@@ -68,6 +68,8 @@ KagotsurubeIsshin_passive_desc: 普攻命中敵人
 KagotsurubeIsshin_passive_effect: 攻擊力提升15%
 KagurasVerity_KaguraDance_desc: 神櫻神遊神樂舞三層
 KagurasVerity_KaguraDance_effect: 元素戰技傷害 +36%
+KeyOfKhajNisut_afterSkill_desc: 施放元素戰技 3 次後
+KeyOfKhajNisut_afterSkill_effect: 攻擊力加成
 KingsSquire_passive_desc: 使用 Q 或 E 後
 KingsSquire_passive_effect: 元素精通 +60
 LionsRoar_BaneOfFireAndThunder_desc: 對處於火或雷元素影響下的敵人
@@ -186,3 +188,5 @@ WineAndSong_EverChanging_desc: 普攻命中後衝刺
 WineAndSong_EverChanging_effect: 攻擊力 +20%
 WolfsGravestone_WolfishTracker_desc: 攻擊HP < 30%的敵人時
 WolfsGravestone_WolfishTracker_effect: 所有成員的攻擊力 +40%
+XiphosMoonlight_passive_desc: 「鎮靈的低語」
+XiphosMoonlight_passive_effect: 提升元素充能效率
