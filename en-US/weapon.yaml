@@ -68,6 +68,8 @@ KagotsurubeIsshin_passive_desc: Normal attack hits opponent
 KagotsurubeIsshin_passive_effect: ATK +15%
 KagurasVerity_KaguraDance_desc: 神櫻神遊神樂舞三層
 KagurasVerity_KaguraDance_effect: Elemental skill DMG +36%
+KeyOfKhajNisut_afterSkill_desc: 施放元素戰技 3 次後
+KeyOfKhajNisut_afterSkill_effect: 攻擊力加成
 KingsSquire_passive_desc: After using elemental burst or skill
 KingsSquire_passive_effect: EM is increased by 60
 LionsRoar_BaneOfFireAndThunder_desc: Attacking enemy under the effects of Pyro or Electro
@@ -186,3 +188,5 @@ WineAndSong_EverChanging_desc: Sprints after a normal attack hits
 WineAndSong_EverChanging_effect: ATK +20%
 WolfsGravestone_WolfishTracker_desc: Against enemy with HP < 30%
 WolfsGravestone_WolfishTracker_effect: All characters in the team increase ATK by 40%
+XiphosMoonlight_passive_desc: '「鎮靈的低語」'
+XiphosMoonlight_passive_effect: 提升元素充能效率
