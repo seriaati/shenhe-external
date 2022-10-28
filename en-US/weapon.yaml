@@ -40,23 +40,23 @@ DodocoTales_DodoventureNormal_desc: Normal attack hits
 DodocoTales_DodoventureNormal_effect: Crit DMG +16%
 DragonsBane_BaneOfFlameAndWater_desc: Attacking enemy under the effects of Hydro or Pyro
 DragonsBane_BaneOfFlameAndWater_effect: DMG increases by 20%
-ElegyForTheEnd_ThePartingRefrain_desc: '「千年的大樂章」效果'
+ElegyForTheEnd_ThePartingRefrain_desc: '"Millennial Movement" state'
 ElegyForTheEnd_ThePartingRefrain_effect: EM +100, DMG +20%
 EmeraldOrb_Rapids_desc: Triggers a Hydro-related reaction
 EmeraldOrb_Rapids_effect: ATK +20%
 EngulfingLightning_TimelessDream_desc: After using an elemental burst
 EngulfingLightning_TimelessDream_effect: ER +30%
-FadingTwilight_state_desc: '「朝暉」狀態'
+FadingTwilight_state_desc: '"Fading Twilight" state'
 FadingTwilight_state_effect: DMG + 14%
-ForestRegalia_passive_desc: 拾取種識之葉
+ForestRegalia_passive_desc: Picking up "The Leaf of Consciousness"
 ForestRegalia_passive_effect: EM is increased by 60
-FreedomSworn_MillennialMovement_desc: '「千年的大樂章」'
-FreedomSworn_MillennialMovement_effect: 普攻、重擊、下落攻擊造成的傷害提高，攻擊力 +20%
-FruitOfFulfillment_stacks_desc: 觸發元素反應, 盈缺5層
+FreedomSworn_MillennialMovement_desc: '""Millennial Movement"'
+FreedomSworn_MillennialMovement_effect: Normal, charged, and pluge attack DMG increases, character DMG +20%
+FruitOfFulfillment_stacks_desc: Triggering an elemental reaction, "Wax and Wane" 5 stacks
 FruitOfFulfillment_stacks_effect: EM +250, ATK -25%
 Hamayumi_FullDraw_desc: Energy is full
 Hamayumi_FullDraw_effect: Normal and Charged Attack DMG increases
-HaranGeppakuFutsu_HonedFlow_desc: '「波穗」兩層'
+HaranGeppakuFutsu_HonedFlow_desc: '"Wavespike" 2 stacks'
 HaranGeppakuFutsu_HonedFlow_effect: Normal attack DMG increases
 HarbingerOfDawn_SkyPiercingMight_desc: HP > 90%
 HarbingerOfDawn_SkyPiercingMight_effect: Crit Rate +14%
@@ -66,10 +66,10 @@ IronSting_InfusionStinger_desc: After causing elemental DMG
 IronSting_InfusionStinger_effect: DMG dealt by character is increased
 KagotsurubeIsshin_passive_desc: Normal attack hits opponent
 KagotsurubeIsshin_passive_effect: ATK +15%
-KagurasVerity_KaguraDance_desc: 神櫻神遊神樂舞三層
+KagurasVerity_KaguraDance_desc: '"Kagura Dance" 3 stacks'
 KagurasVerity_KaguraDance_effect: Elemental skill DMG +36%
-KeyOfKhajNisut_afterSkill_desc: 施放元素戰技 3 次後
-KeyOfKhajNisut_afterSkill_effect: 攻擊力加成
+KeyOfKhajNisut_afterSkill_desc: After using an elemental skill 3 times
+KeyOfKhajNisut_afterSkill_effect: ATK Bonus
 KingsSquire_passive_desc: After using elemental burst or skill
 KingsSquire_passive_effect: EM is increased by 60
 LionsRoar_BaneOfFireAndThunder_desc: Attacking enemy under the effects of Pyro or Electro
@@ -78,7 +78,7 @@ LithicBlade_stack_desc: There are two Liyue characters in the team
 LithicBlade_stack_effect: ATK and Crit Rate increases
 LithicSpear_stack_desc: There are two Liyue characters in the team
 LithicSpear_stack_effect: ATK and Crit Rate increases
-LostPrayerToTheSacredWinds_BoundlessBlessing_desc: 無邊際的眷顧12秒
+LostPrayerToTheSacredWinds_BoundlessBlessing_desc: '"Boundless Blessin" 12 seconds'
 LostPrayerToTheSacredWinds_BoundlessBlessing_effect: Elemental DMG Bonus +38%
 LuxuriousSeaLord_OceanicVictory_desc: When elemental burst hits an opponent
 LuxuriousSeaLord_OceanicVictory_effect: Causese AOE DMG by 100% of the character's ATK
@@ -86,12 +86,12 @@ MagicGuide_BaneOfStormAndTide_desc: Against enemy affected by Hydro or Electro
 MagicGuide_BaneOfStormAndTide_effect: DMG + 12%
 MakhairaAquamarine_passive_desc: Triggers MakhairaAquamarine's passive
 MakhairaAquamarine_passive_effect: ATK increases
-MappaMare_InfusionScroll_desc: 注能之卷兩層
+MappaMare_InfusionScroll_desc: '"Infusion Scroll" 2 stacks'
 MappaMare_InfusionScroll_effect: All Elemental DMG +16%
-MemoryOfDust_GoldenMajesty_desc: 金璋皇極五層
+MemoryOfDust_GoldenMajesty_desc: '"Golden Majesty" 5 stacks'
 MemoryOfDust_GoldenMajesty_effect: ATK +40%
-MemoryOfDust_WithShield_desc: 角色在護盾下
-MemoryOfDust_WithShield_effect: 攻擊力提升效果 +100%
+MemoryOfDust_WithShield_desc: Character is protected by a shield
+MemoryOfDust_WithShield_effect: ATK increase effect increases by 100%
 MissiveWindspear_passive_desc: 觸發元素反應後的10秒內
 MissiveWindspear_passive_effect: 攻擊力提升12%，元素精通提升48點
 MistsplitterReforged_MistsplittersEmblem_desc: '「霧切之巴印」3層'
