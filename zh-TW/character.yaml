@@ -142,6 +142,16 @@ Mona_ProphecyOfOblivion_desc: 所有角色攻擊處於星異狀態下的敵人�
 Mona_ProphecyOfOblivion_effect: 暴擊率提升15%
 Mona_ProphecyOfSubmersion_desc: 隊伍角色攻擊處於星異狀態下的敵人
 Mona_ProphecyOfSubmersion_effect: 角色所造成的水元素相關反應效果提升
+Nahida_c2Bloom_desc: 攻擊處於納西妲自身施加的蘊種印狀態下的敵人
+Nahida_c2Bloom_effect: 草反應暴擊率提升至 20%, 暴擊傷害提升至 100%
+Nahida_c2QSA_desc: 攻擊處於納西妲自身施加的蘊種印狀態下的敵人
+Nahida_c2QSA_effect: 敵人防禦力降低
+Nahida_c4Count_desc: 附近處於所聞遍計的蘊種印狀態下的敵人數量為 4
+Nahida_c4Count_effect: 納西妲的元素精通提升 160 點
+Nahida_condA1ActiveInBurst_desc: 當前角色在納希妲的大招範圍內
+Nahida_condA1ActiveInBurst_effect: 元素精通增加
+Nahida_partyInBurst_desc: 隊伍在納希妲的大招範圍內
+Nahida_partyInBurst_effect: 大招增強效果
 Nilou_a1AfterHit_desc: 處於金盃的豐饋狀態下的角色受到草元素攻擊
 Nilou_a1AfterHit_effect: 附近的所有角色元素精通提升100點
 Nilou_a1AfterSkill_desc: 「金盃的豐饋」狀態

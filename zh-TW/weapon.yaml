@@ -176,6 +176,8 @@ TwinNephrite_GuerillaTactics_desc: 擊敗敵人後
 TwinNephrite_GuerillaTactics_effect: 攻擊力 +12%
 VortexVanquisher_GoldenMajesty_desc: 處於護盾庇護下時
 VortexVanquisher_GoldenMajesty_effect: 攻擊力提升效果提高100%
+WanderingEvenstar_passive_desc: 「林野晚星」
+WanderingEvenstar_passive_effect: 攻擊力提升
 WavebreakersFin_WatatsumiWavewalker_desc: 隊伍中的元素能量上限為300
 WavebreakersFin_WatatsumiWavewalker_effect: 元素爆發傷害提高
 WhiteIronGreatsword_CullTheWeak_desc: 擊敗敵人時
