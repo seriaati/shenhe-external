@@ -176,6 +176,8 @@ TwinNephrite_GuerillaTactics_desc: After opponent is defeated
 TwinNephrite_GuerillaTactics_effect: ATK +12%
 VortexVanquisher_GoldenMajesty_desc: Under the protection of a shield
 VortexVanquisher_GoldenMajesty_effect: ATK increase effect increases by 100%
+WanderingEvenstar_passive_desc: '「林野晚星」'
+WanderingEvenstar_passive_effect: 攻擊力提升
 WavebreakersFin_WatatsumiWavewalker_desc: Team max energy is 300
 WavebreakersFin_WatatsumiWavewalker_effect: Burst DMG increases
 WhiteIronGreatsword_CullTheWeak_desc: After opponent is defeated
