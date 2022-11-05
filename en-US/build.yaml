@@ -74,8 +74,8 @@
 攻擊力: Attack
 旅行者_Q 每跳激化: Q each pulse Aggravate
 旅行者_Q每波: Each wave of Q
-旅行者_thoughts_0: The Geo traveler is barely used, there is nothing special in their stats to notice
-旅行者_thoughts_1: "Recommended artifacts: DMG Bonus related. \nMain stats: ATK% sand, Geo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > ER"
+旅行者_thoughts_0: 風主在打激化是精通流更好，沒有激化時攻暴會領先於三精通，自行看情況選擇即可。 有些人會覺得三精通比較難刷，那麼直接帶攻暴也是沒問題的。
+旅行者_thoughts_1: '聖遺物思路推薦（精通流）： 精通沙、精通杯、精通頭 副詞條優先順序： 元素精通>元素充能效率'
 旅行者_thoughts_2: "Artifacts: ATK sands, Anemo DMG goblet, Crit Rate/DMG circlet\nSub stat: Crit Rate/DMG > ATK % > ER"
 旅行者_勾玉充能加成: Abundance Amulets ER bonus
 旅行者_擴散: Swirl
@@ -142,6 +142,7 @@
 神里綾華_thoughts_1: 關於神裡的充能，因為有羅莎莉亞/申鶴的存在，神里其實不缺充能，很快就能被隊友充滿，充能沙是沒必要的。
 神里綾華_thoughts_2: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit DMG circlet\nSub stats: Crit DMG > Crit rate > ATK% > ER%"
 神里綾華_霜滅切割: Icy wind slash DMG
+納西妲_激化滅淨三業: 激化滅淨三業
 絕緣4件套: Emblem of Severed Fate x4
 絕緣千岩2件套: Emblem x2 + Tenacity of the Millelith x2
 翠綠4件套: Viridescent Venerer x4
