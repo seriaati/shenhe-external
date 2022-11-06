@@ -142,16 +142,16 @@ Mona_ProphecyOfOblivion_desc: Any character is attacking opponents under Omen st
 Mona_ProphecyOfOblivion_effect: Crit Rate +15%
 Mona_ProphecyOfSubmersion_desc: When character is attacking opponents under Omen state
 Mona_ProphecyOfSubmersion_effect: Character's Hydro-related reaction DMG is increased
-Nahida_c2Bloom_desc: 攻擊處於納西妲自身施加的蘊種印狀態下的敵人
-Nahida_c2Bloom_effect: 草反應暴擊率提升至 20%, 暴擊傷害提升至 100%
-Nahida_c2QSA_desc: 攻擊處於納西妲自身施加的蘊種印狀態下的敵人
-Nahida_c2QSA_effect: 敵人防禦力降低
-Nahida_c4Count_desc: 附近處於所聞遍計的蘊種印狀態下的敵人數量為 4
-Nahida_c4Count_effect: 納西妲的元素精通提升 160 點
-Nahida_condA1ActiveInBurst_desc: 當前角色在納希妲的大招範圍內
-Nahida_condA1ActiveInBurst_effect: 元素精通增加
-Nahida_partyInBurst_desc: 隊伍在納希妲的大招範圍內
-Nahida_partyInBurst_effect: 大招增強效果
+Nahida_c2Bloom_desc: Attacking opponents that are marked by Seeds of Skandha applied by Nahida herself
+Nahida_c2Bloom_effect: Dendro reaction DMG the opponents receive can score CRIT Hits. CRIT Rate and CRIT DMG are fixed at 20% and 100% respectively.
+Nahida_c2QSA_desc: Attacking opponents that are marked by Seeds of Skandha applied by Nahida herself
+Nahida_c2QSA_effect: Opponent DEF is decreased by 30%
+Nahida_c4Count_desc: When 4 nearby opponents are affected by All Schemes to Know's Seeds of Skandha
+Nahida_c4Count_effect: Nahida's EM is increased by 160
+Nahida_condA1ActiveInBurst_desc: Active character in Nahida's burst
+Nahida_condA1ActiveInBurst_effect: EM increases
+Nahida_partyInBurst_desc: Party in Nahida's burst field
+Nahida_partyInBurst_effect: Nahida burst has some effects
 Nilou_a1AfterHit_desc: Character that's affected by "Golden Chalice's Bounty" is damaged by Dendro
 Nilou_a1AfterHit_effect: Character EM +100
 Nilou_a1AfterSkill_desc: '"Golden Chalice''s Bounty"'
