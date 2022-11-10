@@ -105,19 +105,19 @@
 煙緋_thoughts_0: Yanfei's vaporize coverage is really high (almost 100%) because her charged attack, elemental skill, and elemental burst are calculated separately. Yanfei's A2 allows crit rate to have higher gain, so bringing some crit rate would be pretty good.
 煙緋_thoughts_1: "Recommended artifacts:\nMain stats: ATK%/EM sand, Pyro DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% = EM > ER%"
 煙緋_開Q重擊蒸發: Vaporized charged attack after Q
-珊瑚宮心海_thoughts_0: 1詞條水傷你可以理解成同時影響攻擊和生命兩種屬性，相當於雙倍收益（其實也沒那麼誇張），所以水傷對傷害的提升還是比較明顯的。 心海不管要不要打傷害，都是帶治療頭的。 輔助能力的話，純治療就帶生命杯，不然就水杯，其實帶水杯治療量也不低了。
+珊瑚宮心海_thoughts_0: 1 roll count of Hydro DMG can be seen as affecting both ATK and HP, almost scaling twice (though this is a bit of a stretch), but the point is that Hydro DMG is actually very helpful in increasing DMG. No matter if she is in charge of damage dealing or not, Kokomi is wearing a Healing Bonus circlet. For a support role, HP% goblet if running her solely on healing; a Hydro DMG goblet works too, and she can still heal your teammates very well.
 珊瑚宮心海_thoughts_1: "Recommended artifacts:\nMain stats: HP% sand, Hydro DMG/HP% goblet, HP%/治療 circlet\nSub stats: HP% > Flat HP = ER%"
 珊瑚宮心海_水母回血: Jellyfish healing
 珊瑚宮心海_開Q普攻: Normal attack during element burst
 班尼特_Q治療: Q healing
 班尼特_Q蒸發: Q vapourize
-班尼特_thoughts_0: 班尼特因為自己大招可以提供高額攻擊加成，所以即使是走傷害流，對攻擊力面板也沒有要求。 事實上更加常見的配裝是充生治，因為充生治里治療加成時固定，能考詞條改變的只有生命，思路比較簡單。
+班尼特_thoughts_0: Because Bennet's burst provides massive ATK buffs, he doesn't need much ATK even if run as a DPS. In fact, a more common build for him is ER/HP%/Healing Bonus. Because the only variable in this build is HP%, it is easier.
 班尼特_thoughts_1: "Recommended artifacts - Support build:\nMain stats: ER%/HP% sand, HP% goblet, 治療 circlet\nSub stats: ER% = HP% > Flat HP"
 班尼特_thoughts_2: "Recommended artifacts - DPS build:\nMain stats: ATK%/EM sand, Pyro DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > EM > ATK%"
 琴_Q治療: Q healing
-琴_thoughts_0: 琴屬於治療輔助，遠古時期可以依靠摔怪單通12層，不過現在的怪都是boss沒法摔了。 琴的傷害是次要的，保證治療量即可。
+琴_thoughts_0: Jean is a support with healing abilities. Back in the days she could solo floor 12 by simpling dragging the enemies around to deal fall damage, but nowadays enemies can't be dragged anymore. Jean's personal damage is not as important, and her healing abilities should be prioritized.
 琴_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, 治療 circlet\nSub stats: ATK% > ER%"
-甘雨_thoughts_0: 甘雨作為冰系而且自帶加暴擊的天賦，通常暴擊率比較高，在挑選詞條的時候暴傷會更加高貴一些。 眾所周知甘雨還有融甘玩法，圖中精通是按100%覆蓋率算的，用於融化蓄力箭的參考。
+甘雨_thoughts_0: Ganyu as a Cryo character whose A1 grants Crit Rate usually is not concerned with Crit Rate, so Crit DMG is more important in her artifacts. A well known playstyle is Melt Ganyu. The picture shows EM calculated based on 100% coverage, as a reference for melt charged shot.
 甘雨_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
 甘雨_霜畫矢綻放: Frostflake Arrow blooms
 甘雨_霜畫矢融化: Frostflake Arrow melt
@@ -125,8 +125,8 @@
 生命值 (三層被動): HP (3 stacks of passive)
 申鶴_Q傷害: Q damage
 申鶴_thoughts_0: 申鶴的機制比較特殊，說直接點，往死裡堆攻擊就完事了，別的什麼暴擊冰傷不用管。 除非帶西風的時候可以帶個暴擊頭。 申鶴目前只能配神裡綾華，別的都不好，在考慮要不要練申鶴的時候可以考慮一下這點。
-申鶴_thoughts_1: 申鶴一般主詞條帶攻攻攻即可，因為主副詞條不能重複，所以三個位置的副詞條第一優先順序就是充能，攻攻攻申鶴靠副詞條弄到170%充能是沒問題的，不需要充能沙。
-申鶴_thoughts_2: 套裝使用率最高的是2角2追，因為這套成型快，倉庫里有一堆直接就能用了，但在紙面上宗室4是隊伍總傷最高的。
+申鶴_thoughts_1: Usually Shenhe only need ATK% for main stats. Because main stats and sub stats can't repeat, ER should be the first choice for sub stats. Shenhe can achieve 170% ER with sub stats while running on triple EM; ER sands are not needed.
+申鶴_thoughts_2: The most common build is 2 Glad 2 Shimenawa because how easy they are to obtain, but in theory 4 pc Nob has the highest team dps.
 申鶴_thoughts_3: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, ATK% circlet - Crit rate if 西風 is used\nSub stats: ATK% > ER% > Flat ATK"
 砂糖_thoughts_0: 砂糖是風系精通拐，自己精通越高，給隊友的精通buff越強，專注堆精通就可以了。 傷害也是明顯的精通流更高。 砂糖容易缺充能，而大招又比較重要，更多時候會帶充能沙，即使武器是金珀，也會帶充能沙。
 砂糖_thoughts_1: "Recommended artifacts:\nMain stats: ER%/EM sand, EM goblet, EM circlet\nSub stats: EM > ER%"
