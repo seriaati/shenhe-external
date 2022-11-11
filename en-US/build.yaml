@@ -128,7 +128,7 @@
 申鶴_thoughts_1: Usually Shenhe only need ATK% for main stats. Because main stats and sub stats can't repeat, ER should be the first choice for sub stats. Shenhe can achieve 170% ER with sub stats while running on triple EM; ER sands are not needed.
 申鶴_thoughts_2: The most common build is 2 Glad 2 Shimenawa because how easy they are to obtain, but in theory 4 pc Nob has the highest team dps.
 申鶴_thoughts_3: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, ATK% circlet - Crit rate if 西風 is used\nSub stats: ATK% > ER% > Flat ATK"
-砂糖_thoughts_0: 砂糖是風系精通拐，自己精通越高，給隊友的精通buff越強，專注堆精通就可以了。 傷害也是明顯的精通流更高。 砂糖容易缺充能，而大招又比較重要，更多時候會帶充能沙，即使武器是金珀，也會帶充能沙。
+砂糖_thoughts_0: Sucrose is an Anemo EM support. The higher her own EM, the more EM buff she can provide, so just stacking EM on her is enough. Traditional EM build also deals higher damage. Sucrose needs ER a lot, especially considering how important her burst is, so ER sands are good on her even when wearing Prototype Amber as weapon.
 砂糖_thoughts_1: "Recommended artifacts:\nMain stats: ER%/EM sand, EM goblet, EM circlet\nSub stats: EM > ER%"
 砂糖_擴散: Swirl
 磐岩4件套: Archaic Petra x4
@@ -136,24 +136,24 @@
 磐岩角鬥2件套: Arachaic Petra x2+ Gladiator x2
 神里綾人_E首刀+余響/無: E first slash + Echoes of an Offering/None
 神里綾人_E首刀+沉淪4: E first slash + Heart of Depth x4
-神里綾人_thoughts_0: 浪閃的作用和心海、鍾離是類似的，相當於自帶一定量的攻擊加成，導致後續堆的攻擊會被稀釋，反過來說暴擊區和增傷區的收益會提高。 綾人要提高傷害的話，攻擊是明顯大於生命的，攻擊對傷害的提升約為生命的1.7倍。
+神里綾人_thoughts_0: The Namisen effect is similar to Kokomi's and Zhongli's, in a way that it has a certain amount of ATK buffs, causing subsequent ATK buffs to diminish, and Crit and DMG buffs are more effective. To increase Ayato's damage, ATK is more helpful than HP, by approximately 170%. 
 神里綾人_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, Hydro DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > HP%"
-神里綾華_thoughts_0: 神裡不看隊友的時候，攻冰攻傷害算出來是比攻冰暴傷害高的，於是有些人會誤以為神裡攻擊頭更好。 其實，因為神裡能輕鬆吃到討龍、申鶴、宗室這類高額攻擊區buff，最終還是暴傷頭更好的。
-神里綾華_thoughts_1: 關於神裡的充能，因為有羅莎莉亞/申鶴的存在，神里其實不缺充能，很快就能被隊友充滿，充能沙是沒必要的。
+神里綾華_thoughts_0: When looking at her damage alone, ATK%/Cryo DMG/ATK% build has higher damage than ATK%/Cryo DMG/CD, leading to some people thinking ATK% circlet is better. In fact, because Ayaka can easily gain lots of ATK buffs from such as Thrilling Tales, Shenhe, and Noblesse, CD circlet fits her better in the end. 
+神里綾華_thoughts_1: For Ayaka's ER, because she has teammates like Rosaria and Shenhe, she doesn't really need that much ER, so ER sands are not needed. 
 神里綾華_thoughts_2: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit DMG circlet\nSub stats: Crit DMG > Crit rate > ATK% > ER%"
 神里綾華_霜滅切割: Icy wind slash DMG
 納西妲_激化滅淨三業: 激化滅淨三業
 絕緣4件套: Emblem of Severed Fate x4
 絕緣千岩2件套: Emblem x2 + Tenacity of the Millelith x2
 翠綠4件套: Viridescent Venerer x4
-胡桃_thoughts_0: 通常來講，胡桃不應刻意堆生命。 精通沙相比生命沙的優勢顯然是精通傷害更高，而生命沙的優勢在於，不局限於蒸發，胡桃也是有三火陣容的，另外，聯機的時候往往沒有那麼穩定的掛水，生命沙在你帶萌新打本的時候會更C一點。 生存的話，胡桃都是帶鍾離的多點生命對生存的提升基本是可以忽略的。 （除非你沒鍾離）
-胡桃_thoughts_1: '聖遺物思路推薦： 生命/精通沙、火傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比生命=元素精通>百分比攻擊'
+胡桃_thoughts_0: In most cases, Hutao shouldn't be focusing on stacking HP. ER sands deal more damage than HP sands, but the latter do not limit Hutao to only Vape teams - she also works in Triple Pyro teams. Additionally, in coop there often isn't consistent Hydro appliance, so HP sands allow you to deal more damage when carrying other players. Regarding survival, unless you don't have Zhongli, Hutao is always in the same team with him, so more HP doesn't really improve anything.
+胡桃_thoughts_1: "Artifact Stat Recommendations:\nMain stats: HP%/EM sand, Pyro DMG goblet, CR/CD circlet\nSub stats: CR/CD > HP% = EM > ER%"
 胡桃_重擊蒸發: Charged attack vaporize
 芭芭拉_Q瞬抬: Q heal
-芭芭拉_thoughts_0: 芭芭拉以輔助能力為主，要最大化治療量的話，治療頭是必不可少的。 硬要玩戰鬥牧師的話，還是常見的攻擊增傷120%，精通270。
-芭芭拉_thoughts_1: 聖遺物思路推薦： 充能/生命沙、生命杯、治療頭 副詞條優先順序： 生命≥充能
+芭芭拉_thoughts_0: Building Barbara should focus on her support abilities. To maximize her healing amount, a Healing Bonus circlet is needed. If you really want her to be a DPS, the most common build is 120% ATK DMG bonus with 270 EM.
+芭芭拉_thoughts_1: "Artifact Stats Recommendation: ER/HP% sand, HP goblet, Healing Bonus circlet\nsubstats: HP ≥ ER"
 芭芭拉_治療預估: Heal
-荒瀧一斗_thoughts_0: 在分析曲線之前，先來解決一個小問題： 一鬥基礎防禦959，基礎攻擊227 一條防禦詞條的量為1.875%，一條攻擊詞條的量為1.5% 元素爆發防轉攻比例大於100% 959*1.875% >（227+741）*1.5% 所以一鬥一定是防禦收益高於攻擊。
+荒瀧一斗_thoughts_0: 'Before analyzing the curve, we should solve a small problem first: Itto''s base DEF is 959, base ATK 227. One roll of DEF substat is 1.875%, and one roll of ATK is 1.5%. His burst converts DEF to ATK and the ratio is greater than 1. 959*1.875% >（227+741）*1.5%. Thus Itto scales with DEF more than ATK.'
 荒瀧一斗_thoughts_1: 再來看圖，防禦閾值僅有100% 不管你怎麼努力都會高出這個值，實際上只要有“雙暴靠找，防禦靠歪”的思想就可以了。 閾值低的原因和胡桃那會算生命的時候一樣，因為都是轉化為攻擊力，所以會受到原本已有攻擊力的稀釋。
 荒瀧一斗_thoughts_2: 聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦沙、岩傷杯、暴擊（暴傷）頭
 荒瀧一斗_thoughts_3: 副詞條優先順序： 雙暴（自適應） >百分比防禦>百分比攻擊
