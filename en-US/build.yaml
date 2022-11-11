@@ -154,13 +154,13 @@
 芭芭拉_thoughts_1: "Artifact Stats Recommendation: ER/HP% sand, HP goblet, Healing Bonus circlet\nsubstats: HP ≥ ER"
 芭芭拉_治療預估: Heal
 荒瀧一斗_thoughts_0: 'Before analyzing the curve, we should solve a small problem first: Itto''s base DEF is 959, base ATK 227. One roll of DEF substat is 1.875%, and one roll of ATK is 1.5%. His burst converts DEF to ATK and the ratio is greater than 1. 959*1.875% >（227+741）*1.5%. Thus Itto scales with DEF more than ATK.'
-荒瀧一斗_thoughts_1: 再來看圖，防禦閾值僅有100% 不管你怎麼努力都會高出這個值，實際上只要有“雙暴靠找，防禦靠歪”的思想就可以了。 閾值低的原因和胡桃那會算生命的時候一樣，因為都是轉化為攻擊力，所以會受到原本已有攻擊力的稀釋。
-荒瀧一斗_thoughts_2: 聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦沙、岩傷杯、暴擊（暴傷）頭
-荒瀧一斗_thoughts_3: 副詞條優先順序： 雙暴（自適應） >百分比防禦>百分比攻擊
+荒瀧一斗_thoughts_1: 'Let''s look at the graph now. The threshold for DEF is only 100%. No matter how hard you try it will be more than this, so just focus on stacking CR/CD and if there is some DEF that''s also good. The reason for the threshold being so low is similar to Hutao''s case: because in both cases they are being converted into ATK, diminishing returns happens.'
+荒瀧一斗_thoughts_2: 'Artifact Stat Recommendations: wear any DMB increase piece, no need to worry about diminishing returns.'
+荒瀧一斗_thoughts_3: 'Sub stat recommendations: CR/CD > DEF% > ATK%'
 荒瀧一斗_開Q重擊連斬: Consecutive charged attacks after Q
 莫娜_Q暴擊: Critical hit of Q
 莫娜_Q暴擊蒸發: Critical vaporize hit of Q
-莫娜_thoughts_0: 莫娜以輔助增傷為主，自身傷害是次要的。 在保證充能的前提下，可以去補點傷害，但其實也沒必要就是了。 充能提升水傷的效率只有25%，是比較低的，不建議以提高水傷為目的去找充能詞條，充能只要迴圈得起來就不用再找了。 圖中的水傷是以200充能為前提進行計算的，帶充能沙以後很容易就能到這個值
+莫娜_thoughts_0: Mona's build should prioritize on her support and damage buffing abilities, her own damage is less important. With enough ER, you can choose more offensive substats but this is not necessary. ER only increase Hydro damage by 25%, which is relatively low, so it is not recommeneded to stack ER to increase Hydro damage. ER only needs to be sufficient for your team rotations. The Hydro DMG in the graph is calculated based on 200% ER, which is easily achievable with ER sands.
 莫娜_thoughts_1: 聖遺物思路推薦： 莫娜增傷區比較高，而且沙漏會帶充能，這時候攻擊杯會更好。 副詞條里充能也不用找太多，一般莫娜是金珀充能沙，充能已經夠了就不用麻煩副詞條了。 充能沙、攻擊杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴>（元素精通）≥攻擊>充能效率
 華館4件套: Husk of Opulent Dreams x4
 菲謝爾_thoughts_0: 菲謝爾在3.0激化體系中是比較重要的角色，因為菲謝爾的雷附著頻率比較高，甚至有超越八重神子傷害的可能。 但菲謝爾仍然是攻擊沙>精通沙，沒有精通轉增傷之類的機制的話，攻擊優於精通屬於比較常見的結論，目前的雷系都符合這個規律。
