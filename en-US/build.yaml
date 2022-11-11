@@ -178,19 +178,19 @@
 行秋_thoughts_1: "Artifact Recommendations:\nMain stats: ATK% sand, Hydro DMG goblet, CR/CD circlet\nSub stats: CR/CD > ATK% > ER"
 角斗2件套+追憶2件套: Gladiator x2 + Shimenewa x2
 角斗士4件套: Gladiator x4
-諾艾爾_thoughts_0: 首先明確一點——諾艾爾防禦比攻擊收益高。 防禦的曲線如果沒有別的屬性干擾的話，應該是和物傷一樣的，閾值170。 而諾艾爾閾值只有125%，明顯變低了，原因和胡桃、一鬥一樣，因為有防轉攻，所以會受到原本已有攻擊力的稀釋。 換個角度說，就是岩傷和雙暴的收益對諾艾爾非常高。
-諾艾爾_thoughts_1: '聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦/充能沙、岩傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應） >百分比防禦>元素充能效率'
+諾艾爾_thoughts_0: First of all, Noelle scales with DEF more than ATK. With no other interference, DEF's curve should be the same as Phys DMG, capping at 170%. However, Noelle capped out at only 125%, clearly lower. This is due to the same reason for Hutao and Itto. Because of the conversion from DEF to ATK, there are diminishing returns with her base ATK. In other words, Noelles scales with Geo DMG and CR/CD a lot.
+諾艾爾_thoughts_1: "Artifact Recommendation: bring any DMG bonus you have, no need to worry about diminishing\nMain stat Recommendation: DEF/ER sands, GEO DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > DEF% > ER"
 諾艾爾_高達首刀: First swing
 賽諾_E「裁定」激化: E "Judication" aggravate
 辛焱_E盾值: E shield amount
 辛焱_Q橫掃: Q horizontal swing
-辛焱_thoughts_0: 辛焱要走傷害流的話，通常是打物理輸出，火傷比較少，也更不會去打蒸發，所以這裡索性就不放精通曲線了。 在沒有鍾離的時候，辛焱可以作為比較優秀的盾輔，此時主要堆防禦以提高盾量即可。
-辛焱_thoughts_1: 6命有50%防禦轉攻擊（僅限重擊），辛焱防禦白值799，攻擊白值249，加上武器暫取800白值。 顯然，就算主打重擊，要堆攻擊就直接堆攻擊好了，防禦提升攻擊的效率只有一半，所以辛焱要提高傷害，還是得靠攻擊
-辛焱_thoughts_2: 聖遺物思路推薦（輔助向）： 防禦沙、防禦杯、防禦頭 副詞條優先順序： 百分比防禦力>固定防禦力
-辛焱_thoughts_3: 聖遺物思路推薦（傷害向）： 攻擊沙、物傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊力>百分比防禦力
+辛焱_thoughts_0: Xinyan as a DPS is more often built to deal Phys DMG, not Pyro or Vape, so we don't put a Vape curve here. She can be a decent Shield support when Zhongli is not available; just focus on stacking DEF to increase shield strength. 
+辛焱_thoughts_1: Xinyan's C6 converts 50% of DEF to ATK (only for Charged Attacks). Her base DEF is 799, base ATK 249, with the assumption of weapon giving 800 ATK. Apparently even if only using Charged Attacks, stacking ATK would be enough for her damage since DEF only offers half of that. Therefore to increase Xinyan's damage, stacking ATK is more fitting. 
+辛焱_thoughts_2: "Artifact Recommendation (Support Build): \nMain stat Recommendation: DEF sands, DEF goblet, DEF circlet;\nSub-stat Recommendation: DEF% > flat DEF"
+辛焱_thoughts_3: "Artifact Recommendation (DPS Build): \nMain stat Recommendation: ATK sands, Phys DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD, ATK%, DEF%"
 辰砂4件套: Vermillion Hereafter x4
-迪奧娜_thoughts_0: 迪奧娜是功能非常齊全的輔助角色，能治療能套盾能充電能加精通能掛冰...... 在遊戲前期，尤其是當你用甘雨神裡這類冰系主C時，會有很棒的表現。 以功能性為主，一般更加看中盾值所以帶生生生。
-迪奧娜_thoughts_1: 聖遺物思路推薦： 生命沙、生命杯、生命/治療頭 副詞條優先順序： 生命加成>充能效率
+迪奧娜_thoughts_0: 'Diona is a great character with many differnt support abilities: healing, shield, partical generation, EM buff, Cryo application... In early games, she performs very well espcially if you use Cryo DPS like Ganyu and Ayaka. For her support abilities, shield strength is more important so she usually wear triple HP.'
+迪奧娜_thoughts_1: "Artifact Recommendation: HP% sands, HP goblet, HP/Healing Bonus circlet\nsubstats: HP > ER"
 迪奧娜_長E盾值: Long press E shield amount
 迪盧克_Q蒸發: Q vaporize
 迪盧克_thoughts_0: 姥爺因為大部分攻擊是預設組別，蒸發覆蓋率並不是很高，只有在裝備狼末時，因為攻擊特別高，才是帶精通沙更好。 但如果看的不是總傷，而是大數字的話（覆蓋算100%），精通在接近300之前都是收益較高的。
