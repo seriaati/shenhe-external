@@ -154,43 +154,43 @@
 芭芭拉_thoughts_1: "Artifact Stats Recommendation: ER/HP% sand, HP goblet, Healing Bonus circlet\nsubstats: HP ≥ ER"
 芭芭拉_治療預估: Heal
 荒瀧一斗_thoughts_0: 'Before analyzing the curve, we should solve a small problem first: Itto''s base DEF is 959, base ATK 227. One roll of DEF substat is 1.875%, and one roll of ATK is 1.5%. His burst converts DEF to ATK and the ratio is greater than 1. 959*1.875% >（227+741）*1.5%. Thus Itto scales with DEF more than ATK.'
-荒瀧一斗_thoughts_1: 再來看圖，防禦閾值僅有100% 不管你怎麼努力都會高出這個值，實際上只要有“雙暴靠找，防禦靠歪”的思想就可以了。 閾值低的原因和胡桃那會算生命的時候一樣，因為都是轉化為攻擊力，所以會受到原本已有攻擊力的稀釋。
-荒瀧一斗_thoughts_2: 聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦沙、岩傷杯、暴擊（暴傷）頭
-荒瀧一斗_thoughts_3: 副詞條優先順序： 雙暴（自適應） >百分比防禦>百分比攻擊
+荒瀧一斗_thoughts_1: 'Let''s look at the graph now. The threshold for DEF is only 100%. No matter how hard you try it will be more than this, so just focus on stacking CR/CD and if there is some DEF that''s also good. The reason for the threshold being so low is similar to Hutao''s case: because in both cases they are being converted into ATK, diminishing returns happens.'
+荒瀧一斗_thoughts_2: 'Artifact Stat Recommendations: wear any DMB increase piece, no need to worry about diminishing returns.'
+荒瀧一斗_thoughts_3: 'Sub stat recommendations: CR/CD > DEF% > ATK%'
 荒瀧一斗_開Q重擊連斬: Consecutive charged attacks after Q
 莫娜_Q暴擊: Critical hit of Q
 莫娜_Q暴擊蒸發: Critical vaporize hit of Q
-莫娜_thoughts_0: 莫娜以輔助增傷為主，自身傷害是次要的。 在保證充能的前提下，可以去補點傷害，但其實也沒必要就是了。 充能提升水傷的效率只有25%，是比較低的，不建議以提高水傷為目的去找充能詞條，充能只要迴圈得起來就不用再找了。 圖中的水傷是以200充能為前提進行計算的，帶充能沙以後很容易就能到這個值
-莫娜_thoughts_1: 聖遺物思路推薦： 莫娜增傷區比較高，而且沙漏會帶充能，這時候攻擊杯會更好。 副詞條里充能也不用找太多，一般莫娜是金珀充能沙，充能已經夠了就不用麻煩副詞條了。 充能沙、攻擊杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴>（元素精通）≥攻擊>充能效率
+莫娜_thoughts_0: Mona's build should prioritize on her support and damage buffing abilities, her own damage is less important. With enough ER, you can choose more offensive substats but this is not necessary. ER only increase Hydro damage by 25%, which is relatively low, so it is not recommeneded to stack ER to increase Hydro damage. ER only needs to be sufficient for your team rotations. The Hydro DMG in the graph is calculated based on 200% ER, which is easily achievable with ER sands.
+莫娜_thoughts_1: "Artifact Stat Recommendations: Mona has a lot of damage buffs, and often wears ER sands, so ATK% goblets work well on her. For substats, ER is not really needed because she often uses Prototype Amber which provides more than enough ER. \nER sand, ATK goblet, CR/CD circlet\nSubstats: CR/CD ≥ ATK > ER"
 華館4件套: Husk of Opulent Dreams x4
-菲謝爾_thoughts_0: 菲謝爾在3.0激化體系中是比較重要的角色，因為菲謝爾的雷附著頻率比較高，甚至有超越八重神子傷害的可能。 但菲謝爾仍然是攻擊沙>精通沙，沒有精通轉增傷之類的機制的話，攻擊優於精通屬於比較常見的結論，目前的雷系都符合這個規律。
-菲謝爾_thoughts_1: 菲謝爾飾金4總傷更高的原因是因為飾金4給的屬性多，和精通收益是不搭界的，2+2隻有15增傷和18攻擊，但是飾金4能給14攻擊和180精通，它給的實在太多了
+菲謝爾_thoughts_0: Fischl is a very important in Quicken/Aggravated Teams after 3.0, because how often she applies Electro, even possibly more than Yae Miko. However, ATK sands are still better than EM sands on Fischl. There is currently no EM to DMG conversion, so ATK is still better than EM; this applies to all Electro characters.
+菲謝爾_thoughts_1: The overall damage of Fischl running 4 Gilded is due to what the set can offer besides EM. 2+2 sets only have 15% damage bonus and 18% ATK, but 4 Gilded can give 14% ATK and 180 EM which is a lot.
 菲謝爾_thoughts_2: "Artifact Recommendation: ATK sands, Electro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK % > ER"
 菲謝爾_奧茲攻擊: Oz attack
 蒼白四件套: Pale Flame x4
 蒼白騎士2件套: Pale Flame x2 + Bloodtained Chilvary x2
 蘿莎莉亞_Q每段: Each pulse of Q
-蘿莎莉亞_thoughts_0: 羅莎莉亞因為自身機制完美契合精5西風，並且大招可以持續掛冰，不僅能為冰C提供大量充能微粒，還可以配合心海這樣的角色做到十秒以上的凍結，顯著地改善了隊伍充能和容錯，目前來講表現不錯。
-蘿莎莉亞_thoughts_1: 羅莎莉亞是輔助的定位，自身傷害不是很重要，可以多堆一些暴擊穩定觸發西風和提高暴擊buff數值。
+蘿莎莉亞_thoughts_0: Rosaria's kit is perfect with R5 Fav Lance, and her burst provides constant Cryo application. Not only does this generate a lot of particles for Cryo DPS, but teaming up with characters like Kokomi can also freeze the enemies up to 10s. This signifiantly improves ER in your team and allows rooms for mistakes; overall a decent character.
+蘿莎莉亞_thoughts_1: Rosaria is a support character, her damage not as important; just focus on stacking Crit Rate to trigger Fav Lance and increase Crit buffs.
 蘿莎莉亞_thoughts_2: "Recommended artifacts:\nMain stats: ER%/ATK% sand, Cryo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate > Crit DMG > ATK% > ER%"
 行秋_Q劍雨: Rain sword
-行秋_thoughts_0: 行秋雖然大招80能量，但是因為祭禮雙E直接10個水球，加上祭禮是61.3的充能，絕緣套又有20充能，大部分隊算出來也是180能夠，所以實際上行秋是可以不帶充能沙的。
-行秋_thoughts_1: 聖遺物思路推薦： 攻擊沙、水傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴>百分比攻擊>充能效率
+行秋_thoughts_0: Though Xingqiu's burst requires 80 energy, considering that Sac Sword, having 61.3 ER, allows him to generate 10 Hydro particles after two E's, and Emblem giving an additional 20% ER, Xingqiu's ER is enough at 180% in most teams. Thus he doesn't really need an ER sand. 
+行秋_thoughts_1: "Artifact Recommendations:\nMain stats: ATK% sand, Hydro DMG goblet, CR/CD circlet\nSub stats: CR/CD > ATK% > ER"
 角斗2件套+追憶2件套: Gladiator x2 + Shimenewa x2
 角斗士4件套: Gladiator x4
-諾艾爾_thoughts_0: 首先明確一點——諾艾爾防禦比攻擊收益高。 防禦的曲線如果沒有別的屬性干擾的話，應該是和物傷一樣的，閾值170。 而諾艾爾閾值只有125%，明顯變低了，原因和胡桃、一鬥一樣，因為有防轉攻，所以會受到原本已有攻擊力的稀釋。 換個角度說，就是岩傷和雙暴的收益對諾艾爾非常高。
-諾艾爾_thoughts_1: '聖遺物思路推薦： 增傷有就帶，不用擔心稀釋 防禦/充能沙、岩傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應） >百分比防禦>元素充能效率'
+諾艾爾_thoughts_0: First of all, Noelle scales with DEF more than ATK. With no other interference, DEF's curve should be the same as Phys DMG, capping at 170%. However, Noelle capped out at only 125%, clearly lower. This is due to the same reason for Hutao and Itto. Because of the conversion from DEF to ATK, there are diminishing returns with her base ATK. In other words, Noelles scales with Geo DMG and CR/CD a lot.
+諾艾爾_thoughts_1: "Artifact Recommendation: bring any DMG bonus you have, no need to worry about diminishing\nMain stat Recommendation: DEF/ER sands, GEO DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > DEF% > ER"
 諾艾爾_高達首刀: First swing
 賽諾_E「裁定」激化: E "Judication" aggravate
 辛焱_E盾值: E shield amount
 辛焱_Q橫掃: Q horizontal swing
-辛焱_thoughts_0: 辛焱要走傷害流的話，通常是打物理輸出，火傷比較少，也更不會去打蒸發，所以這裡索性就不放精通曲線了。 在沒有鍾離的時候，辛焱可以作為比較優秀的盾輔，此時主要堆防禦以提高盾量即可。
-辛焱_thoughts_1: 6命有50%防禦轉攻擊（僅限重擊），辛焱防禦白值799，攻擊白值249，加上武器暫取800白值。 顯然，就算主打重擊，要堆攻擊就直接堆攻擊好了，防禦提升攻擊的效率只有一半，所以辛焱要提高傷害，還是得靠攻擊
-辛焱_thoughts_2: 聖遺物思路推薦（輔助向）： 防禦沙、防禦杯、防禦頭 副詞條優先順序： 百分比防禦力>固定防禦力
-辛焱_thoughts_3: 聖遺物思路推薦（傷害向）： 攻擊沙、物傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊力>百分比防禦力
+辛焱_thoughts_0: Xinyan as a DPS is more often built to deal Phys DMG, not Pyro or Vape, so we don't put a Vape curve here. She can be a decent Shield support when Zhongli is not available; just focus on stacking DEF to increase shield strength. 
+辛焱_thoughts_1: Xinyan's C6 converts 50% of DEF to ATK (only for Charged Attacks). Her base DEF is 799, base ATK 249, with the assumption of weapon giving 800 ATK. Apparently even if only using Charged Attacks, stacking ATK would be enough for her damage since DEF only offers half of that. Therefore to increase Xinyan's damage, stacking ATK is more fitting. 
+辛焱_thoughts_2: "Artifact Recommendation (Support Build): \nMain stat Recommendation: DEF sands, DEF goblet, DEF circlet;\nSub-stat Recommendation: DEF% > flat DEF"
+辛焱_thoughts_3: "Artifact Recommendation (DPS Build): \nMain stat Recommendation: ATK sands, Phys DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD, ATK%, DEF%"
 辰砂4件套: Vermillion Hereafter x4
-迪奧娜_thoughts_0: 迪奧娜是功能非常齊全的輔助角色，能治療能套盾能充電能加精通能掛冰...... 在遊戲前期，尤其是當你用甘雨神裡這類冰系主C時，會有很棒的表現。 以功能性為主，一般更加看中盾值所以帶生生生。
-迪奧娜_thoughts_1: 聖遺物思路推薦： 生命沙、生命杯、生命/治療頭 副詞條優先順序： 生命加成>充能效率
+迪奧娜_thoughts_0: 'Diona is a great character with many differnt support abilities: healing, shield, partical generation, EM buff, Cryo application... In early games, she performs very well espcially if you use Cryo DPS like Ganyu and Ayaka. For her support abilities, shield strength is more important so she usually wear triple HP.'
+迪奧娜_thoughts_1: "Artifact Recommendation: HP% sands, HP goblet, HP/Healing Bonus circlet\nsubstats: HP > ER"
 迪奧娜_長E盾值: Long press E shield amount
 迪盧克_Q蒸發: Q vaporize
 迪盧克_thoughts_0: 姥爺因為大部分攻擊是預設組別，蒸發覆蓋率並不是很高，只有在裝備狼末時，因為攻擊特別高，才是帶精通沙更好。 但如果看的不是總傷，而是大數字的話（覆蓋算100%），精通在接近300之前都是收益較高的。
