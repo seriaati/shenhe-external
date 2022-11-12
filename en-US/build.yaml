@@ -124,7 +124,7 @@
 生命值: HP
 生命值 (三層被動): HP (3 stacks of passive)
 申鶴_Q傷害: Q damage
-申鶴_thoughts_0: 申鶴的機制比較特殊，說直接點，往死裡堆攻擊就完事了，別的什麼暴擊冰傷不用管。 除非帶西風的時候可以帶個暴擊頭。 申鶴目前只能配神裡綾華，別的都不好，在考慮要不要練申鶴的時候可以考慮一下這點。
+申鶴_thoughts_0: For Shenhe, just stack ATK, no need to care about things like Crit Rate or Cryo DMG bonus. Unless she has a Favonius then you can bring a Crit Rate circlet. Shenhe currently only goes well with Ayaka.
 申鶴_thoughts_1: Usually Shenhe only need ATK% for main stats. Because main stats and sub stats can't repeat, ER should be the first choice for sub stats. Shenhe can achieve 170% ER with sub stats while running on triple EM; ER sands are not needed.
 申鶴_thoughts_2: The most common build is 2 Glad 2 Shimenawa because how easy they are to obtain, but in theory 4 pc Nob has the highest team dps.
 申鶴_thoughts_3: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, ATK% circlet - Crit rate if 西風 is used\nSub stats: ATK% > ER% > Flat ATK"
@@ -142,7 +142,7 @@
 神里綾華_thoughts_1: For Ayaka's ER, because she has teammates like Rosaria and Shenhe, she doesn't really need that much ER, so ER sands are not needed. 
 神里綾華_thoughts_2: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit DMG circlet\nSub stats: Crit DMG > Crit rate > ATK% > ER%"
 神里綾華_霜滅切割: Icy wind slash DMG
-納西妲_激化滅淨三業: 激化滅淨三業
+納西妲_激化滅淨三業: Tri-Karma Purification
 絕緣4件套: Emblem of Severed Fate x4
 絕緣千岩2件套: Emblem x2 + Tenacity of the Millelith x2
 翠綠4件套: Viridescent Venerer x4
@@ -193,10 +193,10 @@
 迪奧娜_thoughts_1: "Artifact Recommendation: HP% sands, HP goblet, HP/Healing Bonus circlet\nsubstats: HP > ER"
 迪奧娜_長E盾值: Long press E shield amount
 迪盧克_Q蒸發: Q vaporize
-迪盧克_thoughts_0: 姥爺因為大部分攻擊是預設組別，蒸發覆蓋率並不是很高，只有在裝備狼末時，因為攻擊特別高，才是帶精通沙更好。 但如果看的不是總傷，而是大數字的話（覆蓋算100%），精通在接近300之前都是收益較高的。
+迪盧克_thoughts_0: Diluc's attacks have low evaporation cover rate. Only when he has the Wolf's Gravestone then EM sands is better because of the high ATK. If you want BIG DMG numbers and not average DMG then EM has higher earnings before reaching 300.
 迪盧克_thoughts_1: "Artifact Recommendation: Bring Pyro DMG bonus if possible, ATK / EM sands, Pyro DMG bonus goblet, CR(CD) circlet\nSub stat: CR/CD > ATK %"
 追憶4件套: Shimenawa's Reminiscence x4
-達達利亞_thoughts_0: 公子在蒸發中屬於強勢元素，要持續蒸發是極其困難的，圖中精通是為核爆做參考，相當於蒸發覆蓋率100%。 雖然公子自己不會主動堆精通，但在萬達國際中，有時一刀的爆發的傷害佔比會很高，這時候萬葉二命的提升就會非常大。
+達達利亞_thoughts_0: Tartaglia's Hydro is a strong element in an evaporation reaction, to evaporate continuously is extremely difficult. Although Tartaglia will not take the initiative to stack EM, but in the Tartaglia-Kazuha International team, sometimes the DMG of Tartaglia's elemental burst is very high, then in this situation Kazuha's C2 will increase the team's DPS by a huge degree.
 達達利亞_thoughts_1: "Artifact Recommendations: ATK% sands, Hydro DMG goblet, CR/CD circlet\nSub stats: CR/CD > ATK% > EM = ER"
 達達利亞_近戰Q蒸發: Melee Q vaporize
 重雲_Q每段: Each individual Q
@@ -225,17 +225,17 @@
 雷電將軍_無想的一刀: Musou Shinsetsu
 飾金4件套: Gilded Dreams x4
 香菱_Q踩班蒸發: In Bennett field vaporize
-香菱_thoughts_0: 香菱的蒸發覆蓋率在實戰里就是接近100%的，這裡也是按100%算。 因為香菱的隊友統計中，班尼特出場率達到了95%，可以認為香菱就是綁定班尼特出場了。 班尼特的buff相當於130%左右的攻擊加成，這樣一來，香菱自己的面板上，就沒必要堆攻擊了，可以帶充能沙或者精通沙。
-香菱_thoughts_1: '聖遺物思路推薦： 充能/精通沙、火傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>元素精通>元素充能效率>百分比攻擊'
-魈_thoughts_0: 魈是攻暴流風C，因為大招能夠提供高達90+的增傷，所以魈的攻擊區是收益比較高的，曾經還有過風杯攻擊杯之爭，但現在有了辰砂套，提供高額攻擊力，就一定是帶風杯了。
-魈_thoughts_1: 魈的充能比較關鍵，還是比較有用的，一般會帶琴或者砂糖給魈充電，但魈還是有必要自己帶點充能詞條的，但充能沙不必了，副詞條裡注意一下就行。
-魈_thoughts_2: '聖遺物思路推薦： 攻擊沙、風傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率'
+香菱_thoughts_0: Xiangling's Vape coverage is close to 100% in battle; here it is also calculated based on 100% coverage. Because statistically Bennett is in more than 95% of Xiangling's teams, we can assume the two are tied together. Bennett's buff is about 130% of ATK Bonus, hence Xiangling doesn't need to stack ATK and can choose ER or EM sands. 
+香菱_thoughts_1: "Artifact Recommendations: ER/EM sands, Pyro DMG goblet, CR/CD circlet\nSub stats: CR/CD > EM > ER > ATK%"
+魈_thoughts_0: Xiao is a DPS scaling with ATK and CR/CD. Because his burst can provide 90%+ Damage Bonus, so stacking ATK on him is more helpful. People used to argue which of Anemo DMG or ATK goblet is better, but with the release of Vermillion which gives a lot of ATK, it has come to the agreement of bringing Anemo DMG goblet. 
+魈_thoughts_1: Xiao's ER is relatively important and desired. Though his teams usually have Jean or Sucrose for particle generation, Xiao still needs some ER stats. ER sands are not needed; a few sub stats are enough. 
+魈_thoughts_2: "Artifact Recommendations: ATK sands, Anemo DMG goblet, CR/CD circlet\nSub stats: CR/CD > ATK% > ER"
 魈_開大首插: First plunge attack after Q
 魔女4件套: Crimson Witch of Flames x4
 鹿野院平藏_E 滿蓄力: E full charged
-鹿野院平藏_thoughts_0: 小鹿不屬於高頻低倍率的風系，自身倍率很高，所以要走攻暴流。 充能方面，自身大招只有40能量而且四命自帶回能，基本不需要什麼充能詞條。
-鹿野院平藏_thoughts_1: '聖遺物思路推薦： 攻擊沙、風傷杯、暴擊（暴傷）頭 副詞條優先順序： 雙暴（自適應）>百分比攻擊>元素充能效率'
+鹿野院平藏_thoughts_0: Heizou is not a character who attacks often with low scalings. Since he has high scaling, stacking ATK and CR/CD on him is better. For ER, since his burst only requires 40 energy and his C4 also regenerages energy, he doesn't really need any ER stats.
+鹿野院平藏_thoughts_1: "Artifacts Recommendations: ATK% sands, Anemo DMG goblet, CR/CD circlet\nSub stats: CR/CD > ATK% > ER"
 麗莎_Q每段: Each pulse of Q
-麗莎_thoughts_0: 麗莎阿..姐姐這個突破加精通很迷，自己E倍率上千，搞個突破加精通我真不知道啥意思，E的高倍率和Q的高頻率兩種優勢不管怎麼樣都要放棄一個。 總的來說還是攻擊沙更好一點。
+麗莎_thoughts_0: Lisa's ascension giving EM is weird to me. Her Elemental Skill scales over 1000% so I don't know why her ascension give EM. Between the high scaling of Elemental Scaling and frequent damage of Elemental Burst one has to be abandoned. Overall ATK sands are better.
 麗莎_thoughts_1: "Artifact Recommendation: ATK sands, Electro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK % > ER"
 麗莎_滿層E: Full stack E
