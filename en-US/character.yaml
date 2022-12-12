@@ -66,6 +66,12 @@ Eula_LightfallSword_desc: Eula Lightfall Sword 30 stacks
 Eula_LightfallSword_effect: deals DMG
 Eula_TidalIllusion_desc: After consuming all the stacks of Grimheart
 Eula_TidalIllusion_effect: Eula's Physical DMG is increased by 30%
+Faruzan_a4Active_desc: characters affected by The Wind's Secret Ways' Prayerful Wind's Gift
+Faruzan_a4Active_effect: Anemo DMG Bonus
+Faruzan_burstBenefit_desc: Prayerful Wind's Benefit 
+Faruzan_burstBenefit_effect: Anemo DMG Bonus
+Faruzan_burstHit_desc: Perfidious Wind's Bale
+Faruzan_burstHit_effect: decreasing opponents' Anemo RES
 Ganyu_A1_desc: After firing off a Frostflake Arrow
 Ganyu_A1_effect: the CRIT Rate of subsequent Frostflake Arrows and their resulting bloom effects is increased by 20%
 Ganyu_A4_desc: Within the AoE of Ganyu's Q
@@ -134,6 +140,10 @@ KujouSara_c6_desc: Kujou in C6 Sin of Pride state
 KujouSara_c6_effect: Electro Crit DMG +60%
 KukiShinobu_c6Trigger_desc: Kuki's HP < 25%
 KukiShinobu_c6Trigger_effect: Kuki EM +150
+Layla_a1Stacks_desc: 4 stacks of the Deep Sleep effect
+Layla_a1Stacks_effect: Shield Strenght increased by 24%
+Layla_c4Active_desc: Under the Dawn Star effect
+Layla_c4Active_effect: increase Normal and Charged Attack DMG
 Lisa_LisaA4_desc: Opponent hit by Lisa's Q
 Lisa_LisaA4_effect: Opponent's DEF -15%
 Mona_Omen_desc: During Mona's Omen duration
@@ -236,6 +246,10 @@ Venti_c4_desc: When Venti picks up an Elemental Orb or Particle
 Venti_c4_effect: Venti Anemo DMG +25%
 Venti_c6_desc: Opponent hit by Venti's Q
 Venti_c6_effect: Opponent Anemo RES -20%
+Wanderer_afterSkill_desc: After casting the Wanderer's elemtental skill
+Wanderer_afterSkill_effect: increase Normal and Charged Attack DMG
+Wanderer_c2Points_desc: When the difference between the max and present amount of Kuugoryoku Points is 50
+Wanderer_c2Points_effect: The Wanderer's elemental burst DMG is increased by 200%
 Xiangling_afterChili_desc: Picks up Guoba's chili
 Xiangling_afterChili_effect: DMG + 10%
 Xiangling_afterGuobaHit_desc: Opponent hit by Guoba

@@ -172,6 +172,12 @@ TheWidsith_Debut_desc: '"Debut: Aria"'
 TheWidsith_Debut_effect: All Elemental DMG +48%
 ThunderingPulse_RuleByThunder_desc: '"Thunder Emblem" 3 stacks'
 ThunderingPulse_RuleByThunder_effect: ''
+ToukabouShigure_passive_desc: opponent during Cursed Parasol's duration
+ToukabouShigure_passive_effect: deals 16% more DMG to the opponent
+TulaytullahsRemembrance_hitPassive_desc: After the Wanderer's Normal ATK hits the opponents for 5 times
+TulaytullahsRemembrance_hitPassive_effect: Normal Attack DMG increased by 9.6%
+TulaytullahsRemembrance_timePassive_desc: Within 12 seconds after the Wanderer casts elemental skill
+TulaytullahsRemembrance_timePassive_effect: the effect of Bygone Azure Teardrop lasts 14 seconds
 TwinNephrite_GuerillaTactics_desc: After opponent is defeated
 TwinNephrite_GuerillaTactics_effect: ATK +12%
 VortexVanquisher_GoldenMajesty_desc: Under the protection of a shield

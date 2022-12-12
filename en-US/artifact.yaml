@@ -1,5 +1,9 @@
 BlizzardStrayer_state_desc: Enemy in frozen state
 BlizzardStrayer_state_effect: Critical rate +40%
+DesertPavilionChronicle_set4_desc: 4 pc DPC
+DesertPavilionChronicle_set4_effect: When Charged Attacks hit opponents, the equipping character's Normal Attack SPD will increase by 10% while Normal, Charged, and Plunging Attack DMG will increase by 40% for 15s.
+FlowerOfParadiseLost_stacks_desc: 4 stacks of FPL
+FlowerOfParadiseLost_stacks_effect: DMG of Bloom, Hyperbloom, and Burgeon is increased by 40%
 HeartOfDepth_skill_desc: After using an elemental skill
 HeartOfDepth_skill_effect: Normal attack and charged attack DMG +30%
 HuskOfOpulentDreams_stack_desc: Husk of Pulent Dreams effect 4 stacks
