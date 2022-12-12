@@ -66,6 +66,12 @@ Eula_LightfallSword_desc: 優菈光劍 30 層
 Eula_LightfallSword_effect: 造成傷害
 Eula_TidalIllusion_desc: 消耗冷酷之心後
 Eula_TidalIllusion_effect: 優菈物理傷害加成 +30%
+Faruzan_a4Active_desc: 角色處於摶風秘道的「祈風之賜」效果下
+Faruzan_a4Active_effect: 風元素傷害加成
+Faruzan_burstBenefit_desc: 「祈風之賜」效果
+Faruzan_burstBenefit_effect: 風元素傷害加成
+Faruzan_burstHit_desc: 「詭風之禍」效果
+Faruzan_burstHit_effect: 降低敵人的風元素抗性
 Ganyu_A1_desc: 發射霜華矢後
 Ganyu_A1_effect: 霜華矢暴擊率 +20%
 Ganyu_A4_desc: 甘雨 Q 內
@@ -134,6 +140,10 @@ KujouSara_c6_desc: 天狗咒雷狀態下
 KujouSara_c6_effect: 雷元素傷害的暴擊傷害+60%
 KukiShinobu_c6Trigger_desc: 久岐忍生命值 <25%
 KukiShinobu_c6Trigger_effect: 九岐忍 +150精通
+Layla_a1Stacks_desc: 「深眠」效果 4 層
+Layla_a1Stacks_effect: 護盾強效提升 24%
+Layla_c4Active_desc: 在「啟明」效果之下
+Layla_c4Active_effect: 普通攻擊與重擊造成的傷害提升
 Lisa_LisaA4_desc: 敵人被麗莎 Q 打到
 Lisa_LisaA4_effect: 敵人 -15%防禦力
 Mona_Omen_desc: 星異持續時間內
@@ -236,6 +246,10 @@ Venti_c4_desc: 溫迪獲得元素微粒
 Venti_c4_effect: 溫迪風傷 +25%
 Venti_c6_desc: 被溫迪 Q 打到
 Venti_c6_effect: 敵人風抗 -20%
+Wanderer_afterSkill_desc: 散兵開 E 後
+Wanderer_afterSkill_effect: 普通攻擊傷害與重擊傷害提高
+Wanderer_c2Points_desc: 空居力的差值為 50
+Wanderer_c2Points_effect: 散兵 Q 造成的傷害提升200%
 Xiangling_afterChili_desc: 撿起鍋巴辣椒
 Xiangling_afterChili_effect: 傷害 +10%
 Xiangling_afterGuobaHit_desc: 敵人被鍋巴打到

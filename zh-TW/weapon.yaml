@@ -172,6 +172,12 @@ TheWidsith_Debut_desc: '登場樂: 詠嘆調'
 TheWidsith_Debut_effect: 全元素傷害 +48%
 ThunderingPulse_RuleByThunder_desc: 「飛雷之巴印」3層
 ThunderingPulse_RuleByThunder_effect: ''
+ToukabouShigure_passive_desc: 敵人處於「紙傘作祟」狀態
+ToukabouShigure_passive_effect: 對敵人造成的傷害提升16%
+TulaytullahsRemembrance_hitPassive_desc: 散兵普通攻擊命中敵人五次
+TulaytullahsRemembrance_hitPassive_effect: 普通攻擊造成的傷害提升9.6%
+TulaytullahsRemembrance_timePassive_desc: 散兵施放元素戰技後的12秒內
+TulaytullahsRemembrance_timePassive_effect: 「堙沒的藍寶石淚滴」效果持續14秒
 TwinNephrite_GuerillaTactics_desc: 擊敗敵人後
 TwinNephrite_GuerillaTactics_effect: 攻擊力 +12%
 VortexVanquisher_GoldenMajesty_desc: 處於護盾庇護下時
