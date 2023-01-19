@@ -10,6 +10,14 @@ Albedo_p1EnemyHp_desc: Enemy HP < 50%
 Albedo_p1EnemyHp_effect: Transient Blossom DMG Bonus 25%
 Albedo_skillInField_desc: Character in Albedo skill field
 Albedo_skillInField_effect: Plunging Att. DMG Bonus 30%
+Alhaitham_debateStacks_desc: 琢光鏡 4 層
+Alhaitham_debateStacks_effect: 元素精通 +200
+Alhaitham_excessMirror_desc: 產生多餘的琢光鏡
+Alhaitham_excessMirror_effect: 暴擊率 +10%, 暴擊傷害 +70%
+Alhaitham_mirrorsConsumed_desc: 消耗了 3 個琢光鏡
+Alhaitham_mirrorsConsumed_effect: 元素精通提升, 草元素傷害提升
+Alhaitham_withMirrors_desc: 持有琢光鏡時
+Alhaitham_withMirrors_effect: 草元素近戰附魔
 Aloy_A4_desc: Aloy during Rushing Ice state 10s
 Aloy_A4_effect: Cryo DMG Bonus 35%
 Aloy_coil_desc: Aloy coil rushing ice
@@ -284,6 +292,12 @@ Yanfei_p1Seals_desc: Yanfei 3 seals
 Yanfei_p1Seals_effect: Pyro DMG Increased by 15%
 Yanfei_p2ChargedCrit_desc: Yanfei Charged Attack crits
 Yanfei_p2ChargedCrit_effect: Causes Pyro DMG by 80% of Yanfei's ATK
+Yaoyao_adeptalLegacy_desc: 進入「桂子仙機」狀態
+Yaoyao_adeptalLegacy_effect: 草元素抗性提升
+Yaoyao_c1Explode_desc: 白玉蘿蔔爆炸
+Yaoyao_c1Explode_effect: 15%草元素傷害加成
+Yaoyao_c4AfterSkillBurst_desc: 瑤瑤施放 E 或 Q 後
+Yaoyao_c4AfterSkillBurst_effect: 提升元素精通
 Yelan_a4Stacks_desc: During Yelan's burst
 Yelan_a4Stacks_effect: DMG +36%
 Yelan_c4Stacks_desc: Yelan's E tags 4 opponents
