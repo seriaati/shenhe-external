@@ -10,6 +10,14 @@ Albedo_p1EnemyHp_desc: 敵人生命值 < 50%
 Albedo_p1EnemyHp_effect: 刹那之花傷害 +25%
 Albedo_skillInField_desc: 處於陽華的領域中
 Albedo_skillInField_effect: 下落攻擊傷害提高30%
+Alhaitham_debateStacks_desc: 琢光鏡 4 層
+Alhaitham_debateStacks_effect: 元素精通 +200
+Alhaitham_excessMirror_desc: 產生多餘的琢光鏡
+Alhaitham_excessMirror_effect: 暴擊率 +10%, 暴擊傷害 +70%
+Alhaitham_mirrorsConsumed_desc: 消耗了 3 個琢光鏡
+Alhaitham_mirrorsConsumed_effect: 元素精通提升, 草元素傷害提升
+Alhaitham_withMirrors_desc: 持有琢光鏡時
+Alhaitham_withMirrors_effect: 草元素近戰附魔
 Aloy_A4_desc: 亞蘿伊處於冰馳狀態下 10 秒
 Aloy_A4_effect: 冰傷 +35%
 Aloy_coil_desc: 亞蘿伊冰馳狀態
@@ -284,6 +292,12 @@ Yanfei_p1Seals_desc: 煙緋 3 層
 Yanfei_p1Seals_effect: 火元素傷害加成 15%
 Yanfei_p2ChargedCrit_desc: 煙緋重擊暴擊
 Yanfei_p2ChargedCrit_effect: 額外造成一次80%攻擊力的火範圍傷害
+Yaoyao_adeptalLegacy_desc: 進入「桂子仙機」狀態
+Yaoyao_adeptalLegacy_effect: 草元素抗性提升
+Yaoyao_c1Explode_desc: 白玉蘿蔔爆炸
+Yaoyao_c1Explode_effect: 15%草元素傷害加成
+Yaoyao_c4AfterSkillBurst_desc: 瑤瑤施放 E 或 Q 後
+Yaoyao_c4AfterSkillBurst_effect: 提升元素精通
 Yelan_a4Stacks_desc: 玄擲玲瓏存在期間
 Yelan_a4Stacks_effect: 傷害提昇 36%
 Yelan_c4Stacks_desc: 夜蘭 E 標記 4 個敵人

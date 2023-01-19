@@ -72,6 +72,8 @@ KeyOfKhajNisut_afterSkill_desc: 施放元素戰技 3 次後
 KeyOfKhajNisut_afterSkill_effect: 攻擊力加成
 KingsSquire_passive_desc: 使用 Q 或 E 後
 KingsSquire_passive_effect: 元素精通 +60
+LightOfFoliarIncision_afterNormalEle_desc: 普通攻擊造成元素傷害後
+LightOfFoliarIncision_afterNormalEle_effect: 普通攻擊和元素戰技造成的傷害提高
 LionsRoar_BaneOfFireAndThunder_desc: 對處於火或雷元素影響下的敵人
 LionsRoar_BaneOfFireAndThunder_effect: 造成的傷害提高20%
 LithicBlade_stack_desc: 隊伍中有兩位璃月角色
