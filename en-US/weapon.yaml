@@ -72,6 +72,8 @@ KeyOfKhajNisut_afterSkill_desc: After using an elemental skill 3 times
 KeyOfKhajNisut_afterSkill_effect: ATK Bonus
 KingsSquire_passive_desc: After using elemental burst or skill
 KingsSquire_passive_effect: EM is increased by 60
+LightOfFoliarIncision_afterNormalEle_desc: 普通攻擊造成元素傷害後
+LightOfFoliarIncision_afterNormalEle_effect: 普通攻擊和元素戰技造成的傷害提高
 LionsRoar_BaneOfFireAndThunder_desc: Attacking enemy under the effects of Pyro or Electro
 LionsRoar_BaneOfFireAndThunder_effect: DMG dealt increases by 20%
 LithicBlade_stack_desc: There are two Liyue characters in the team
