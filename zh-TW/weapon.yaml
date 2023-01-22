@@ -97,7 +97,7 @@ MemoryOfDust_WithShield_effect: 攻擊力提升效果 +100%
 MissiveWindspear_passive_desc: 觸發元素反應後的10秒內
 MissiveWindspear_passive_effect: 攻擊力提升12%，元素精通提升48點
 MistsplitterReforged_MistsplittersEmblem_desc: 「霧切之巴印」3層
-MistsplitterReforged_MistsplittersEmblem_effect: 雷元素傷害 +28%
+MistsplitterReforged_MistsplittersEmblem_effect: 元素傷害 +28%
 MitternachtsWaltz_EvernightDuetNormal_desc: 元素戰技命中敵人
 MitternachtsWaltz_EvernightDuetNormal_effect: 普攻傷害 +20%
 MitternachtsWaltz_EvernightDuetSkill_desc: 普攻命中敵人
