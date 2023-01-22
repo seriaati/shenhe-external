@@ -72,8 +72,8 @@ KeyOfKhajNisut_afterSkill_desc: After using an elemental skill 3 times
 KeyOfKhajNisut_afterSkill_effect: ATK Bonus
 KingsSquire_passive_desc: After using elemental burst or skill
 KingsSquire_passive_effect: EM is increased by 60
-LightOfFoliarIncision_afterNormalEle_desc: 普通攻擊造成元素傷害後
-LightOfFoliarIncision_afterNormalEle_effect: 普通攻擊和元素戰技造成的傷害提高
+LightOfFoliarIncision_afterNormalEle_desc: After Normal Attacks deal Elemental DMG
+LightOfFoliarIncision_afterNormalEle_effect: DMG dealt by Normal Attacks and Elemental Skills is increased
 LionsRoar_BaneOfFireAndThunder_desc: Attacking enemy under the effects of Pyro or Electro
 LionsRoar_BaneOfFireAndThunder_effect: DMG dealt increases by 20%
 LithicBlade_stack_desc: There are two Liyue characters in the team
@@ -97,7 +97,7 @@ MemoryOfDust_WithShield_effect: ATK increase effect increases by 100%
 MissiveWindspear_passive_desc: Within 10 seconds of triggering an elemental reaction
 MissiveWindspear_passive_effect: DMG increases by 12%, EM increases by 48
 MistsplitterReforged_MistsplittersEmblem_desc: '"Mistsplitter''s Emblem" 3 stacks'
-MistsplitterReforged_MistsplittersEmblem_effect: 元素傷害 +28%
+MistsplitterReforged_MistsplittersEmblem_effect: Elemental DMG Bonus +28%
 MitternachtsWaltz_EvernightDuetNormal_desc: When elemental skill hits an opponent
 MitternachtsWaltz_EvernightDuetNormal_effect: Normal attack DMG +20%
 MitternachtsWaltz_EvernightDuetSkill_desc: Normal attack hits opponent
