@@ -10,13 +10,13 @@ Albedo_p1EnemyHp_desc: Enemy HP < 50%
 Albedo_p1EnemyHp_effect: Transient Blossom DMG Bonus 25%
 Albedo_skillInField_desc: Character in Albedo skill field
 Albedo_skillInField_effect: Plunging Att. DMG Bonus 30%
-Alhaitham_debateStacks_desc: 琢光鏡 4 層
-Alhaitham_debateStacks_effect: 元素精通 +200
-Alhaitham_excessMirror_desc: 產生多餘的琢光鏡
-Alhaitham_excessMirror_effect: 暴擊率 +10%, 暴擊傷害 +70%
-Alhaitham_mirrorsConsumed_desc: 消耗了 3 個琢光鏡
-Alhaitham_mirrorsConsumed_effect: 元素精通提升, 草元素傷害提升
-Alhaitham_withMirrors_desc: 持有琢光鏡時
+Alhaitham_debateStacks_desc: 4 Chisel-Light Mirrors
+Alhaitham_debateStacks_effect: EM +200
+Alhaitham_excessMirror_desc: generates excess Chisel-Light Mirrors
+Alhaitham_excessMirror_effect: crit rate +10%, crit dmg +70%
+Alhaitham_mirrorsConsumed_desc: consumes 3 Chisel-Light Mirrors
+Alhaitham_mirrorsConsumed_effect: EM is increased, Dendro DMG bonus 
+Alhaitham_withMirrors_desc: when possessing Chisel-Light Mirrors
 Alhaitham_withMirrors_effect: 草元素近戰附魔
 Aloy_A4_desc: Aloy during Rushing Ice state 10s
 Aloy_A4_effect: Cryo DMG Bonus 35%
