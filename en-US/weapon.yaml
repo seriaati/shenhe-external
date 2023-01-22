@@ -97,7 +97,7 @@ MemoryOfDust_WithShield_effect: ATK increase effect increases by 100%
 MissiveWindspear_passive_desc: Within 10 seconds of triggering an elemental reaction
 MissiveWindspear_passive_effect: DMG increases by 12%, EM increases by 48
 MistsplitterReforged_MistsplittersEmblem_desc: '"Mistsplitter''s Emblem" 3 stacks'
-MistsplitterReforged_MistsplittersEmblem_effect: Electro DMG +28%
+MistsplitterReforged_MistsplittersEmblem_effect: 元素傷害 +28%
 MitternachtsWaltz_EvernightDuetNormal_desc: When elemental skill hits an opponent
 MitternachtsWaltz_EvernightDuetNormal_effect: Normal attack DMG +20%
 MitternachtsWaltz_EvernightDuetSkill_desc: Normal attack hits opponent
