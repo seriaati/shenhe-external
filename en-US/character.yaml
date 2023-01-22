@@ -17,7 +17,7 @@ Alhaitham_excessMirror_effect: crit rate +10%, crit dmg +70%
 Alhaitham_mirrorsConsumed_desc: consumes 3 Chisel-Light Mirrors
 Alhaitham_mirrorsConsumed_effect: EM is increased, Dendro DMG bonus 
 Alhaitham_withMirrors_desc: when possessing Chisel-Light Mirrors
-Alhaitham_withMirrors_effect: 草元素近戰附魔
+Alhaitham_withMirrors_effect: melee Dendro infusion
 Aloy_A4_desc: Aloy during Rushing Ice state 10s
 Aloy_A4_effect: Cryo DMG Bonus 35%
 Aloy_coil_desc: Aloy coil rushing ice
@@ -292,12 +292,12 @@ Yanfei_p1Seals_desc: Yanfei 3 seals
 Yanfei_p1Seals_effect: Pyro DMG Increased by 15%
 Yanfei_p2ChargedCrit_desc: Yanfei Charged Attack crits
 Yanfei_p2ChargedCrit_effect: Causes Pyro DMG by 80% of Yanfei's ATK
-Yaoyao_adeptalLegacy_desc: 進入「桂子仙機」狀態
-Yaoyao_adeptalLegacy_effect: 草元素抗性提升
-Yaoyao_c1Explode_desc: 白玉蘿蔔爆炸
-Yaoyao_c1Explode_effect: 15%草元素傷害加成
-Yaoyao_c4AfterSkillBurst_desc: 瑤瑤施放 E 或 Q 後
-Yaoyao_c4AfterSkillBurst_effect: 提升元素精通
+Yaoyao_adeptalLegacy_desc: enters "Adeptal Legacy" state
+Yaoyao_adeptalLegacy_effect: Dendro RES increased
+Yaoyao_c1Explode_desc: when White Jade Radishes explode
+Yaoyao_c1Explode_effect: 15% Dendro DMG Bonus
+Yaoyao_c4AfterSkillBurst_desc: After using Yaoyao's E or Q,
+Yaoyao_c4AfterSkillBurst_effect: EM will be increased
 Yelan_a4Stacks_desc: During Yelan's burst
 Yelan_a4Stacks_effect: DMG +36%
 Yelan_c4Stacks_desc: Yelan's E tags 4 opponents
