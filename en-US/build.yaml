@@ -4,6 +4,7 @@
 久岐忍_E半血治療: E half HP heal
 久岐忍_thoughts_0: Kuki Shinobu is a healer, and the amount of healing you get increases more when you increase her HP instead of her EM, but EM gives you more damage. EM/EM/Heal bonus and HP/HP/Heal bonus have a difference of around 700 HP in terms of heal, so if you like you can bring EM. However even if Kuki brings EM, the catalyze damage is less than 10K, which is less than half of a Xinqiu without buff, so it doesn't make much sense tbh.
 久岐忍_thoughts_1: "Artifacts: HP/EM sands, HP/EM goblet, heal bonus circlet\nSub stat: HP % = EM > ER"
+久岐忍_超綻放傷害: Hyperbloom DMG
 九條裟羅_Q吃鳥羽: Q after consuming feather
 九條裟羅_thoughts_0: Kujou Sara has decent damage by herself, especially when fighting against large targets. She is a high multiplier character, so it is better to bring an ATK sand. If you need some ER then bring ER sands, considering that she already has ATK buff herself.
 九條裟羅_thoughts_1: "Artifacts: ATK/ER sands, Electro DMG goblet, Crit Rate/DMG circlet\nSub stat: Crit Rate/DMG > ATK % > ER"
@@ -121,6 +122,7 @@
 琴_thoughts_0: Jean is a support with healing abilities. Back in the days she could solo floor 12 by simpling dragging the enemies around to deal fall damage, but nowadays enemies can't be dragged anymore. Jean's personal damage is not as important, and her healing abilities should be prioritized.
 琴_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, 治療 circlet\nSub stats: ATK% > ER%"
 琺露珊_Q 釋放傷害: Q unleashes a Whirlwind Pulse
+瑤瑤_E白玉蘿蔔治療: White Jade Radishes' healing from E
 甘雨_thoughts_0: Ganyu as a Cryo character whose A1 grants Crit Rate usually is not concerned with Crit Rate, so Crit DMG is more important in her artifacts. A well known playstyle is Melt Ganyu. The picture shows EM calculated based on 100% coverage, as a reference for melt charged shot.
 甘雨_thoughts_1: "Recommended artifacts:\nMain stats: ATK% sand, Cryo DMG goblet, Crit rate/DMG circlet\nSub stats: Crit rate/DMG > ATK% > ER%"
 甘雨_霜畫矢綻放: Frostflake Arrow blooms
@@ -153,10 +155,12 @@
 胡桃_thoughts_0: In most cases, Hutao shouldn't be focusing on stacking HP. ER sands deal more damage than HP sands, but the latter do not limit Hutao to only Vape teams - she also works in Triple Pyro teams. Additionally, in coop there often isn't consistent Hydro appliance, so HP sands allow you to deal more damage when carrying other players. Regarding survival, unless you don't have Zhongli, Hutao is always in the same team with him, so more HP doesn't really improve anything.
 胡桃_thoughts_1: "Artifact Stat Recommendations:\nMain stats: HP%/EM sand, Pyro DMG goblet, CR/CD circlet\nSub stats: CR/CD > HP% = EM > ER%"
 胡桃_重擊蒸發: Charged attack vaporize
+艾爾海森_E光幕激化傷害: Chisel-Light Mirrors' Quicken/Spread DMG from E
 芭芭拉_Q瞬抬: Q heal
 芭芭拉_thoughts_0: Building Barbara should focus on her support abilities. To maximize her healing amount, a Healing Bonus circlet is needed. If you really want her to be a DPS, the most common build is 120% ATK DMG bonus with 270 EM.
 芭芭拉_thoughts_1: "Artifact Stats Recommendation: ER/HP% sand, HP goblet, Healing Bonus circlet\nsubstats: HP ≥ ER"
 芭芭拉_治療預估: Heal
+花神4件套: 4 pc FoPL
 荒瀧一斗_thoughts_0: 'Before analyzing the curve, we should solve a small problem first: Itto''s base DEF is 959, base ATK 227. One roll of DEF substat is 1.875%, and one roll of ATK is 1.5%. His burst converts DEF to ATK and the ratio is greater than 1. 959*1.875% >（227+741）*1.5%. Thus Itto scales with DEF more than ATK.'
 荒瀧一斗_thoughts_1: 'Let''s look at the graph now. The threshold for DEF is only 100%. No matter how hard you try it will be more than this, so just focus on stacking CR/CD and if there is some DEF that''s also good. The reason for the threshold being so low is similar to Hutao''s case: because in both cases they are being converted into ATK, diminishing returns happens.'
 荒瀧一斗_thoughts_2: 'Artifact Stat Recommendations: wear any DMB increase piece, no need to worry about diminishing returns.'
