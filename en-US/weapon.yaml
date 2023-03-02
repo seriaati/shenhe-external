@@ -8,6 +8,10 @@ AquaSimulacra_passive_desc: When there are enemies nearby
 AquaSimulacra_passive_effect: DMG +20%
 AquilaFavonia_FalconOfTheWest_desc: When the character takes DMG
 AquilaFavonia_FalconOfTheWest_effect: Healing bonus, ATK bonus
+BeaconOfTheReedSea_afterSkill_desc: 受到傷害後
+BeaconOfTheReedSea_afterSkill_effect: 攻擊力提升20%
+BeaconOfTheReedSea_noShield_desc: 不處於護盾庇護下時
+BeaconOfTheReedSea_noShield_effect: 生命值上限提高32%
 BlackcliffAgate_PressTheAdvantage_desc: 3 stacks of "Press the Advantage"
 BlackcliffAgate_PressTheAdvantage_effect: ATK +36%
 BlackcliffLongsword_PressTheAdvantage_desc: After opponent is defeated
