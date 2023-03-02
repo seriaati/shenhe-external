@@ -8,6 +8,10 @@ AquaSimulacra_passive_desc: 周圍存在敵人時
 AquaSimulacra_passive_effect: 傷害 +20%
 AquilaFavonia_FalconOfTheWest_desc: 受到傷害時
 AquilaFavonia_FalconOfTheWest_effect: 回血、造成傷害、攻擊力提升
+BeaconOfTheReedSea_afterSkill_desc: 受到傷害後
+BeaconOfTheReedSea_afterSkill_effect: 攻擊力提升20%
+BeaconOfTheReedSea_noShield_desc: 不處於護盾庇護下時
+BeaconOfTheReedSea_noShield_effect: 生命值上限提高32%
 BlackcliffAgate_PressTheAdvantage_desc: 乘勝追擊三層
 BlackcliffAgate_PressTheAdvantage_effect: 攻擊力 +36%
 BlackcliffLongsword_PressTheAdvantage_desc: 擊敗敵人後
