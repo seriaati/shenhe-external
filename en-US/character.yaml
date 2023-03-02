@@ -56,6 +56,10 @@ Cyno_afterBurst_desc: After Cyno uses his elemental burst,
 Cyno_afterBurst_effect: EM increased by 100
 Cyno_c2NormHitStacks_desc: After Cyno's Normal Attacks hit opponents for five times
 Cyno_c2NormHitStacks_effect: Electro DMG is increased by 50%
+Dehya_c2InField_desc: 在 Q 範圍內時受到傷害
+Dehya_c2InField_effect: 淨焰劍獄下次協同攻擊造成的傷害提升50%
+Dehya_c6CritStacks_desc: 熾鬃拳命中敵人並造成暴擊 4 次
+Dehya_c6CritStacks_effect: 暴擊傷害提升60%
 Diluc_Burst_desc: After Diluc uses his Q
 Diluc_Burst_effect: Pyro DMG increased by 20%
 Diluc_DilucC1_desc: Opponent whose HP is above 50%
