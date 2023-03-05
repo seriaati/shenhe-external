@@ -90,6 +90,8 @@ LuxuriousSeaLord_OceanicVictory_desc: 元素爆發命中敵人時
 LuxuriousSeaLord_OceanicVictory_effect: 造成100%攻擊力的範圍傷害
 MagicGuide_BaneOfStormAndTide_desc: 攻擊受水或雷影響的敵人
 MagicGuide_BaneOfStormAndTide_effect: 傷害 +12%
+MailedFlower_passive_desc: 元素戰技命中敵人或觸發元素反應
+MailedFlower_passive_effect: 攻擊力提升，元素精通提升
 MakhairaAquamarine_passive_desc: 觸發效果
 MakhairaAquamarine_passive_effect: 攻擊力提升
 MappaMare_InfusionScroll_desc: 注能之卷兩層
