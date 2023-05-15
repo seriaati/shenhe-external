@@ -32,12 +32,12 @@ AratakiItto_constellation4_desc: When Itto Q ends
 AratakiItto_constellation4_effect: Def +20%, ATK +20%
 AratakiItto_passive1_desc: Itto uses consecutive attacks
 AratakiItto_passive1_effect: ATK speed +30%
-Baizhu_a1HpStatus_desc: 生命值高於或等於50%時
-Baizhu_a1HpStatus_effect: 白朮獲得25%草元素傷害加成
-Baizhu_a4AfterHeal_desc: 受到無郤氣護盾治療的角色
-Baizhu_a4AfterHeal_effect: '「木運之歲」效果'
-Baizhu_c4AfterBurst_desc: 施放癒氣全形論之後的15秒內
-Baizhu_c4AfterBurst_effect: 隊伍中附近的所有角色元素精通提升80點
+Baizhu_a1HpStatus_desc: When HP is equal to or more than 50%
+Baizhu_a1HpStatus_effect: Baizhu gains 25% Dendro DMG Bonus
+Baizhu_a4AfterHeal_desc: Characters who are healed by Seamless Shields
+Baizhu_a4AfterHeal_effect: the Year of Verdant Favor effect
+Baizhu_c4AfterBurst_desc: For 15s after Holistic Revivification is used
+Baizhu_c4AfterBurst_effect: all nearby party members' Elemental Mastery is increased by 80.
 Barbara_c2_desc: During Barbara E
 Barbara_c2_effect: Character on field gets Hydro DMG Bonus 15%
 Beidou_Ascension4_desc: When Beidou is attacked
@@ -140,12 +140,12 @@ KamisatoAyato_inSkill_desc: Ayato enters "Takimeguri Kanka" state
 KamisatoAyato_inSkill_effect: Ayato's Normal Attack is changed to Hydro AOE DMG
 KamisatoAyato_skillStacks_desc: Ayato 5 stacks of Namisen
 KamisatoAyato_skillStacks_effect: Increased Shunsuiken DMG
-Kaveh_a4Stacks_desc: 攻擊敵人 4 次
-Kaveh_a4Stacks_effect: 元素精通提昇
-Kaveh_afterBurst_desc: 施放 Q 之後
-Kaveh_afterBurst_effect: 草元素附魔，草原核傷害提昇
-Kaveh_c1AfterSkill_desc: 施放 E 之後的三秒內
-Kaveh_c1AfterSkill_effect: 卡維的草元素抗性提升50%，受治療加成提升25%
+Kaveh_a4Stacks_desc: after Kaveh hits opponents for 4 times
+Kaveh_a4Stacks_effect: increased Elemental Mastery
+Kaveh_afterBurst_desc: after using Burst
+Kaveh_afterBurst_effect: infusing attack with Dendro, Bloom reactions dealing additional DMG
+Kaveh_c1AfterSkill_desc: within 3s after using e
+Kaveh_c1AfterSkill_effect: Kaveh's Dendro RES and Incoming Healing Bonus will be increased by 50% and 25% respectively
 Keqing_afterBurst_desc: After Keqing Q
 Keqing_afterBurst_effect: Crit Rate +15, ER +15%
 Keqing_afterReact_desc: Keqing triggers Electro-related reactions
@@ -170,10 +170,10 @@ Layla_c4Active_desc: Under the Dawn Star effect
 Layla_c4Active_effect: increase Normal and Charged Attack DMG
 Lisa_LisaA4_desc: Opponent hit by Lisa's Q
 Lisa_LisaA4_effect: Opponent's DEF -15%
-Mika_a1DetectorStacks_desc: 偵明效果 5 層
-Mika_a1DetectorStacks_effect: 物理傷害提昇 50%
-Mika_inSoulwind_desc: 處於靈風狀態下的角色處於場上時
-Mika_inSoulwind_effect: 攻擊速度將獲得提升
+Mika_a1DetectorStacks_desc: 5 Detector stacks
+Mika_a1DetectorStacks_effect: increase Physical DMG by 50%
+Mika_inSoulwind_desc: When characters in the Soulwind state are on the field
+Mika_inSoulwind_effect: their ATK SPD will be increased.
 Mona_Omen_desc: During Mona's Omen duration
 Mona_Omen_effect: Increased DMG taken by opponents
 Mona_ProphecyOfOblivion_desc: Any character is attacking opponents under Omen state
