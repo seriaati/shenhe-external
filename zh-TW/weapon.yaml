@@ -68,6 +68,8 @@ HuntersPath_passive_desc: 重擊命中敵人
 HuntersPath_passive_effect: 重擊傷害提升
 IronSting_InfusionStinger_desc: 造成元素傷害後
 IronSting_InfusionStinger_effect: 角色造成的傷害提高
+JadefallsSplendor_condPassive_desc: 施放元素爆發或創造護盾後的3秒內
+JadefallsSplendor_condPassive_effect: 產生「定土玉圭」效果
 KagotsurubeIsshin_passive_desc: 普攻命中敵人
 KagotsurubeIsshin_passive_effect: 攻擊力提升15%
 KagurasVerity_KaguraDance_desc: 神櫻神遊神樂舞三層
