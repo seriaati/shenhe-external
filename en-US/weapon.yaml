@@ -68,6 +68,8 @@ HuntersPath_passive_desc: Charged attack hits an opponent
 HuntersPath_passive_effect: Charged Attack DMG increases
 IronSting_InfusionStinger_desc: After causing elemental DMG
 IronSting_InfusionStinger_effect: DMG dealt by character is increased
+JadefallsSplendor_condPassive_desc: 施放元素爆發或創造護盾後的3秒內
+JadefallsSplendor_condPassive_effect: 產生「定土玉圭」效果
 KagotsurubeIsshin_passive_desc: Normal attack hits opponent
 KagotsurubeIsshin_passive_effect: ATK +15%
 KagurasVerity_KaguraDance_desc: '"Kagura Dance" 3 stacks'
