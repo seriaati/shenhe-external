@@ -43,7 +43,8 @@
 北斗_thoughts_1: "Artifact Recommendation: ATK/ER sands, Electro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK % > ER"
 千岩4件套: 4pc Tenacity
 千岩四件套: 4pc Tenacity
-千岩樂團2件套: Tenacity of the Millelith x2 + Wanderer's Troupe x2
+千岩花海2件套: 2 pc tenacity/vourukasha
+卡維_開Q原綻放: using ult deals bloom dmg
 可莉_thoughts_0: The most popular way to play Klee is Klee triple Pyro, and because Klee places Pyro so often, it often causes Hydro supports to be too late to place water, so pure Pyro is better - which means Klee doesn't need EM.
 可莉_thoughts_1: "Artifact Recommendation: ATK sand, Pyro DMG goblet, CR/CD circlet;\nSub-stat Recommendation: CR/CD > ATK %"
 可莉_金花重擊蒸發: Charged attack vaporize
@@ -93,9 +94,9 @@
 楓原萬葉_擴散: Swirl
 樂團4件套: Wanderer's Troupe x4
 樂團四件套: Wanderer's Troupe x4
+水仙4件套: 4 pc nymph
 沉淪4件套: Heart of Depth x4
 沉淪宗室2件套: Heart of Depth x2 + Nobless x2
-沉淪角鬥2件套: Heart of Depth x2 + Gladiator x2
 沙樓4件套: 4 pc DPC
 治療加成: Healing Bonus
 流浪者_開 E 普攻一段: E N3C
@@ -134,6 +135,7 @@
 申鶴_thoughts_1: Usually Shenhe only need ATK% for main stats. Because main stats and sub stats can't repeat, ER should be the first choice for sub stats. Shenhe can achieve 170% ER with sub stats while running on triple EM; ER sands are not needed.
 申鶴_thoughts_2: The most common build is 2 Glad 2 Shimenawa because how easy they are to obtain, but in theory 4 pc Nob has the highest team dps.
 申鶴_thoughts_3: "Recommended artifacts:\nMain stats: ATK% sand, ATK% goblet, ATK% circlet - Crit rate if 西風 is used\nSub stats: ATK% > ER% > Flat ATK"
+白朮_E治療: e healing
 砂糖_thoughts_0: Sucrose is an Anemo EM support. The higher her own EM, the more EM buff she can provide, so just stacking EM on her is enough. Traditional EM build also deals higher damage. Sucrose needs ER a lot, especially considering how important her burst is, so ER sands are good on her even when wearing Prototype Amber as weapon.
 砂糖_thoughts_1: "Recommended artifacts:\nMain stats: ER%/EM sand, EM goblet, EM circlet\nSub stats: EM > ER%"
 砂糖_擴散: Swirl
@@ -160,6 +162,7 @@
 芭芭拉_thoughts_0: Building Barbara should focus on her support abilities. To maximize her healing amount, a Healing Bonus circlet is needed. If you really want her to be a DPS, the most common build is 120% ATK DMG bonus with 270 EM.
 芭芭拉_thoughts_1: "Artifact Stats Recommendation: ER/HP% sand, HP goblet, Healing Bonus circlet\nsubstats: HP ≥ ER"
 芭芭拉_治療預估: Heal
+花海4件套: 4 pc vourukasha
 花神4件套: 4 pc FoPL
 荒瀧一斗_thoughts_0: 'Before analyzing the curve, we should solve a small problem first: Itto''s base DEF is 959, base ATK 227. One roll of DEF substat is 1.875%, and one roll of ATK is 1.5%. His burst converts DEF to ATK and the ratio is greater than 1. 959*1.875% >（227+741）*1.5%. Thus Itto scales with DEF more than ATK.'
 荒瀧一斗_thoughts_1: 'Let''s look at the graph now. The threshold for DEF is only 100%. No matter how hard you try it will be more than this, so just focus on stacking CR/CD and if there is some DEF that''s also good. The reason for the threshold being so low is similar to Hutao''s case: because in both cases they are being converted into ATK, diminishing returns happens.'
