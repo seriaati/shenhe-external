@@ -152,6 +152,8 @@ Keqing_afterReact_desc: 刻晴觸發雷元素相關反應後
 Keqing_afterReact_effect: 攻擊力提升25%
 Keqing_c6Stack_desc: 刻晴六命4層
 Keqing_c6Stack_effect: 雷元素傷害加成 24%
+Kirara_c6AfterSkillBurst_desc: 施放元素戰技或元素爆發後的15秒內
+Kirara_c6AfterSkillBurst_effect: 附近的隊伍中所有角色獲得12%所有元素傷害加成
 Klee_BlazingDelight_desc: 轟轟火花的狀態下
 Klee_BlazingDelight_effect: 10%火元素傷害加成
 Klee_ExplosiveFrags_desc: 敵人被蹦蹦炸彈的詭雷打到
