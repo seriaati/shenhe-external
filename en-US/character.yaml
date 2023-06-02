@@ -152,6 +152,8 @@ Keqing_afterReact_desc: Keqing triggers Electro-related reactions
 Keqing_afterReact_effect: ATK +25%
 Keqing_c6Stack_desc: Keqing C6 4 stacks
 Keqing_c6Stack_effect: Electro DMG Bonus 24%
+Kirara_c6AfterSkillBurst_desc: 施放元素戰技或元素爆發後的15秒內
+Kirara_c6AfterSkillBurst_effect: 附近的隊伍中所有角色獲得12%所有元素傷害加成
 Klee_BlazingDelight_desc: Klee is in Blazing Delight state
 Klee_BlazingDelight_effect: 10% Pyro DMG Bonus
 Klee_ExplosiveFrags_desc: Opponent hit by explosive frags
